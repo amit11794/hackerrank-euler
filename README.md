@@ -15,31 +15,31 @@ Problem | Solution | Language | Result
 [Project Euler #13](https://github.com/amit11794/hackerrank-euler/blob/master/13.pdf) | [Large sum](https://github.com/amit11794/hackerrank-euler/blob/master/13.java)| java | 100%
 [Project Euler #14](https://github.com/amit11794/hackerrank-euler/blob/master/14.pdf) | [Longest Collatz sequence](https://github.com/amit11794/hackerrank-euler/blob/master/14.java)| java | 100%
 [Project Euler #15](https://github.com/amit11794/hackerrank-euler/blob/master/15.pdf) | [Lattice paths](https://github.com/amit11794/hackerrank-euler/blob/master/15.java)| java | 100%
-[Project Euler #16](https://github.com/amit11794/hackerrank-euler/blob/master/16.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/16.java)| java | 100%
-[Project Euler #17](https://github.com/amit11794/hackerrank-euler/blob/master/17.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/17.c)| c | 100%
-[Project Euler #18](https://github.com/amit11794/hackerrank-euler/blob/master/18.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/18.java)| java | 100%
-[Project Euler #19](https://github.com/amit11794/hackerrank-euler/blob/master/19.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/19.cpp)| c++ | 100%
-[Project Euler #20](https://github.com/amit11794/hackerrank-euler/blob/master/20.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/20.java)| java | 100%
-[Project Euler #21](https://github.com/amit11794/hackerrank-euler/blob/master/21.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/21.java)| java | 100%
-[Project Euler #22](https://github.com/amit11794/hackerrank-euler/blob/master/22.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/22.java)| java | 100%
-[Project Euler #23](https://github.com/amit11794/hackerrank-euler/blob/master/23.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/23.java)| java | 100%
-[Project Euler #24](https://github.com/amit11794/hackerrank-euler/blob/master/24.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/24.java)| java | 100%
-[Project Euler #25](https://github.com/amit11794/hackerrank-euler/blob/master/25.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/25.java)| java | 100%
-[Project Euler #26](https://github.com/amit11794/hackerrank-euler/blob/master/26.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/26.py)| python | 100%
-[Project Euler #27](https://github.com/amit11794/hackerrank-euler/blob/master/27.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/27.java)| java | 100%
-[Project Euler #28](https://github.com/amit11794/hackerrank-euler/blob/master/28.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/28.java)| java | 100%
-[Project Euler #29](https://github.com/amit11794/hackerrank-euler/blob/master/29.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/29.java)| java | 100%
-[Project Euler #30](https://github.com/amit11794/hackerrank-euler/blob/master/30.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/30.java)| java | 100%
-[Project Euler #31](https://github.com/amit11794/hackerrank-euler/blob/master/31.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/31.java)| java | 100%
-[Project Euler #32](https://github.com/amit11794/hackerrank-euler/blob/master/32.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/32.java)| java | 100%
-[Project Euler #33](https://github.com/amit11794/hackerrank-euler/blob/master/33.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/33.java)| java | 100%
-[Project Euler #34](https://github.com/amit11794/hackerrank-euler/blob/master/34.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/34.java)| java | 100%
-[Project Euler #35](https://github.com/amit11794/hackerrank-euler/blob/master/35.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/35.java)| java | 100%
-[Project Euler #36](https://github.com/amit11794/hackerrank-euler/blob/master/36.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/36.java)| java | 100%
-[Project Euler #37](https://github.com/amit11794/hackerrank-euler/blob/master/37.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/37.java)| java | 100%
-[Project Euler #38](https://github.com/amit11794/hackerrank-euler/blob/master/38.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/38.java)| java | 100%
-[Project Euler #39](https://github.com/amit11794/hackerrank-euler/blob/master/39.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/39.cpp)| | 100%
-[Project Euler #40](https://github.com/amit11794/hackerrank-euler/blob/master/40.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/40.cpp)| | 100%
+[Project Euler #16](https://github.com/amit11794/hackerrank-euler/blob/master/16.pdf) | [Power digit sum](https://github.com/amit11794/hackerrank-euler/blob/master/16.java)| java | 100%
+[Project Euler #17](https://github.com/amit11794/hackerrank-euler/blob/master/17.pdf) | [Number to Words](https://github.com/amit11794/hackerrank-euler/blob/master/17.c)| c | 100%
+[Project Euler #18](https://github.com/amit11794/hackerrank-euler/blob/master/18.pdf) | [Maximum path sum I](https://github.com/amit11794/hackerrank-euler/blob/master/18.cpp)| c++ | 100%
+[Project Euler #19](https://github.com/amit11794/hackerrank-euler/blob/master/19.pdf) | [Counting Sundays](https://github.com/amit11794/hackerrank-euler/blob/master/19.java)| java | 100%
+[Project Euler #20](https://github.com/amit11794/hackerrank-euler/blob/master/20.pdf) | [Factorial digit sum](https://github.com/amit11794/hackerrank-euler/blob/master/20.java)| java | 100%
+[Project Euler #21](https://github.com/amit11794/hackerrank-euler/blob/master/21.pdf) | [Amicable numbers](https://github.com/amit11794/hackerrank-euler/blob/master/21.java)| java | 100%
+[Project Euler #22](https://github.com/amit11794/hackerrank-euler/blob/master/22.pdf) | [Names scores](https://github.com/amit11794/hackerrank-euler/blob/master/22.java)| java | 100%
+[Project Euler #23](https://github.com/amit11794/hackerrank-euler/blob/master/23.pdf) | [Non-abundant sums](https://github.com/amit11794/hackerrank-euler/blob/master/23.java)| java | 100%
+[Project Euler #24](https://github.com/amit11794/hackerrank-euler/blob/master/24.pdf) | [Lexicographic permutations](https://github.com/amit11794/hackerrank-euler/blob/master/24.java)| java | 100%
+[Project Euler #25](https://github.com/amit11794/hackerrank-euler/blob/master/25.pdf) | [N-digit Fibonacci number](https://github.com/amit11794/hackerrank-euler/blob/master/25.java)| java | 100%
+[Project Euler #26](https://github.com/amit11794/hackerrank-euler/blob/master/26.pdf) | [Reciprocal cycles](https://github.com/amit11794/hackerrank-euler/blob/master/26.py)| python | 100%
+[Project Euler #27](https://github.com/amit11794/hackerrank-euler/blob/master/27.pdf) | [Quadratic primes](https://github.com/amit11794/hackerrank-euler/blob/master/27.java)| java | 100%
+[Project Euler #28](https://github.com/amit11794/hackerrank-euler/blob/master/28.pdf) | [Number spiral diagonals](https://github.com/amit11794/hackerrank-euler/blob/master/28.java)| java | 100%
+[Project Euler #29](https://github.com/amit11794/hackerrank-euler/blob/master/29.pdf) | [Distinct powers](https://github.com/amit11794/hackerrank-euler/blob/master/29.java)| java | 100%
+[Project Euler #30](https://github.com/amit11794/hackerrank-euler/blob/master/30.pdf) | [Digit Nth powers](https://github.com/amit11794/hackerrank-euler/blob/master/30.java)| java | 100%
+[Project Euler #31](https://github.com/amit11794/hackerrank-euler/blob/master/31.pdf) | [Coin sums](https://github.com/amit11794/hackerrank-euler/blob/master/31.java)| java | 100%
+[Project Euler #32](https://github.com/amit11794/hackerrank-euler/blob/master/32.pdf) | [Pandigital products](https://github.com/amit11794/hackerrank-euler/blob/master/32.java)| java | 100%
+[Project Euler #33](https://github.com/amit11794/hackerrank-euler/blob/master/33.pdf) | [Digit canceling fractions](https://github.com/amit11794/hackerrank-euler/blob/master/33.java)| java | 100%
+[Project Euler #34](https://github.com/amit11794/hackerrank-euler/blob/master/34.pdf) | [Digit factorials](https://github.com/amit11794/hackerrank-euler/blob/master/34.java)| java | 100%
+[Project Euler #35](https://github.com/amit11794/hackerrank-euler/blob/master/35.pdf) | [Circular primes](https://github.com/amit11794/hackerrank-euler/blob/master/35.java)| java | 100%
+[Project Euler #36](https://github.com/amit11794/hackerrank-euler/blob/master/36.pdf) | [Double-base palindromes](https://github.com/amit11794/hackerrank-euler/blob/master/36.java)| java | 100%
+[Project Euler #37](https://github.com/amit11794/hackerrank-euler/blob/master/37.pdf) | [Truncatable primes](https://github.com/amit11794/hackerrank-euler/blob/master/37.java)| java | 100%
+[Project Euler #38](https://github.com/amit11794/hackerrank-euler/blob/master/38.pdf) | [Pandigital multiples](https://github.com/amit11794/hackerrank-euler/blob/master/38.java)| java | 100%
+[Project Euler #39](https://github.com/amit11794/hackerrank-euler/blob/master/39.pdf) | [Integer right triangles](https://github.com/amit11794/hackerrank-euler/blob/master/39.cpp)| c++ | 100%
+[Project Euler #40](https://github.com/amit11794/hackerrank-euler/blob/master/40.pdf) | [Champernowne's constant](https://github.com/amit11794/hackerrank-euler/blob/master/40.cpp)| c++ | 100%
 [Project Euler #41](https://github.com/amit11794/hackerrank-euler/blob/master/41.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/41.java)| java | 100%
 [Project Euler #42](https://github.com/amit11794/hackerrank-euler/blob/master/42.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/42.java)| java | 100%
 [Project Euler #43](https://github.com/amit11794/hackerrank-euler/blob/master/43.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/43.cpp)| c++ |  100%
