@@ -1,20 +1,20 @@
 Problem | Solution | Language | Result
 --- | --- | --- | ---
-[Project Euler #1](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem) | [Multiples of 3 and 5](https://github.com/amit11794/hackerrank-euler/blob/master/1.java) | java | 100%
-[Project Euler #2](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem) | [Even Fibonacci numbers](https://github.com/amit11794/hackerrank-euler/blob/master/2.java) | java | 100%
-[Project Euler #3](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem) | [Largest prime factor](https://github.com/amit11794/hackerrank-euler/blob/master/3.java) | java | 100%
-[Project Euler #4](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem) | [Largest palindrome product](https://github.com/amit11794/hackerrank-euler/blob/master/4.java) | java | 100%
-[Project Euler #5](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem) | [Smallest multiple](https://github.com/amit11794/hackerrank-euler/blob/master/5.java) | java | 100%
-[Project Euler #6](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem) | [Sum square difference](https://github.com/amit11794/hackerrank-euler/blob/master/6.java) | java | 100%
-[Project Euler #7](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem) | [10001st prime](https://github.com/amit11794/hackerrank-euler/blob/master/7.java)| java | 100%
-[Project Euler #8](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem) | [Largest product in a series](https://github.com/amit11794/hackerrank-euler/blob/master/8.java)| java | 100%
-[Project Euler #9](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem) | [Special Pythagorean triplet](https://github.com/amit11794/hackerrank-euler/blob/master/9.java)| java | 100%
-[Project Euler #10](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem) | [Summation of primes](https://github.com/amit11794/hackerrank-euler/blob/master/10.java)| java | 100%
-[Project Euler #11](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem) | [Largest product in a grid](https://github.com/amit11794/hackerrank-euler/blob/master/11.java)| java | 100%
-[Project Euler #12](https://www.hackerrank.com/contests/projecteuler/challenges/euler012/problem) | [Highly divisible triangular number](https://github.com/amit11794/hackerrank-euler/blob/master/12.java)| java | 100%
-[Project Euler #13](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem) | [Large sum](https://github.com/amit11794/hackerrank-euler/blob/master/13.java)| java | 100%
-[Project Euler #14](https://www.hackerrank.com/contests/projecteuler/challenges/euler014/problem) | [Longest Collatz sequence](https://github.com/amit11794/hackerrank-euler/blob/master/14.java)| java | 100%
-[Project Euler #15](https://www.hackerrank.com/contests/projecteuler/challenges/euler015/problem) | [Lattice paths](https://github.com/amit11794/hackerrank-euler/blob/master/15.java)| java | 100%
+[Project Euler #1](https://github.com/amit11794/hackerrank-euler/blob/master/1.pdf) | [Multiples of 3 and 5](https://github.com/amit11794/hackerrank-euler/blob/master/1.java) | java | 100%
+[Project Euler #2](https://github.com/amit11794/hackerrank-euler/blob/master/2.pdf) | [Even Fibonacci numbers](https://github.com/amit11794/hackerrank-euler/blob/master/2.java) | java | 100%
+[Project Euler #3](https://github.com/amit11794/hackerrank-euler/blob/master/3.pdf) | [Largest prime factor](https://github.com/amit11794/hackerrank-euler/blob/master/3.java) | java | 100%
+[Project Euler #4](https://github.com/amit11794/hackerrank-euler/blob/master/4.pdf) | [Largest palindrome product](https://github.com/amit11794/hackerrank-euler/blob/master/4.java) | java | 100%
+[Project Euler #5](https://github.com/amit11794/hackerrank-euler/blob/master/5.pdf) | [Smallest multiple](https://github.com/amit11794/hackerrank-euler/blob/master/5.java) | java | 100%
+[Project Euler #6](https://github.com/amit11794/hackerrank-euler/blob/master/6.pdf) | [Sum square difference](https://github.com/amit11794/hackerrank-euler/blob/master/6.java) | java | 100%
+[Project Euler #7](https://github.com/amit11794/hackerrank-euler/blob/master/7.pdf) | [10001st prime](https://github.com/amit11794/hackerrank-euler/blob/master/7.java)| java | 100%
+[Project Euler #8](https://github.com/amit11794/hackerrank-euler/blob/master/8.pdf) | [Largest product in a series](https://github.com/amit11794/hackerrank-euler/blob/master/8.java)| java | 100%
+[Project Euler #9](https://github.com/amit11794/hackerrank-euler/blob/master/9.pdf) | [Special Pythagorean triplet](https://github.com/amit11794/hackerrank-euler/blob/master/9.java)| java | 100%
+[Project Euler #10](https://github.com/amit11794/hackerrank-euler/blob/master/10.pdf) | [Summation of primes](https://github.com/amit11794/hackerrank-euler/blob/master/10.java)| java | 100%
+[Project Euler #11](https://github.com/amit11794/hackerrank-euler/blob/master/11.pdf) | [Largest product in a grid](https://github.com/amit11794/hackerrank-euler/blob/master/11.java)| java | 100%
+[Project Euler #12](https://github.com/amit11794/hackerrank-euler/blob/master/12.pdf) | [Highly divisible triangular number](https://github.com/amit11794/hackerrank-euler/blob/master/12.java)| java | 100%
+[Project Euler #13](https://github.com/amit11794/hackerrank-euler/blob/master/13.pdf) | [Large sum](https://github.com/amit11794/hackerrank-euler/blob/master/13.java)| java | 100%
+[Project Euler #14](https://github.com/amit11794/hackerrank-euler/blob/master/14.pdf) | [Longest Collatz sequence](https://github.com/amit11794/hackerrank-euler/blob/master/14.java)| java | 100%
+[Project Euler #15](https://github.com/amit11794/hackerrank-euler/blob/master/15.pdf) | [Lattice paths](https://github.com/amit11794/hackerrank-euler/blob/master/15.java)| java | 100%
 [Project Euler #16](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/16.java)| |
 [Project Euler #17](https://www.hackerrank.com/contests/projecteuler/challenges/euler017/problem) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/17.java)| |
 [Project Euler #18](https://www.hackerrank.com/contests/projecteuler/challenges/euler018/problem) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/18.java)| |
