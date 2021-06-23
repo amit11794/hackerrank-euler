@@ -40,26 +40,26 @@ Problem | Solution | Language | Result
 [Project Euler #38](https://github.com/amit11794/hackerrank-euler/blob/master/38.pdf) | [Pandigital multiples](https://github.com/amit11794/hackerrank-euler/blob/master/38.java)| java | 100%
 [Project Euler #39](https://github.com/amit11794/hackerrank-euler/blob/master/39.pdf) | [Integer right triangles](https://github.com/amit11794/hackerrank-euler/blob/master/39.cpp)| c++ | 100%
 [Project Euler #40](https://github.com/amit11794/hackerrank-euler/blob/master/40.pdf) | [Champernowne's constant](https://github.com/amit11794/hackerrank-euler/blob/master/40.cpp)| c++ | 100%
-[Project Euler #41](https://github.com/amit11794/hackerrank-euler/blob/master/41.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/41.java)| java | 100%
-[Project Euler #42](https://github.com/amit11794/hackerrank-euler/blob/master/42.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/42.java)| java | 100%
-[Project Euler #43](https://github.com/amit11794/hackerrank-euler/blob/master/43.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/43.cpp)| c++ |  100%
-[Project Euler #44](https://github.com/amit11794/hackerrank-euler/blob/master/44.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/44.java)| java | 100%
-[Project Euler #45](https://github.com/amit11794/hackerrank-euler/blob/master/45.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/45.java)| java | 100%
-[Project Euler #46](https://github.com/amit11794/hackerrank-euler/blob/master/46.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/46.java)| java | 100%
-[Project Euler #47](https://github.com/amit11794/hackerrank-euler/blob/master/47.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/47.java)| java | 100%
-[Project Euler #48](https://github.com/amit11794/hackerrank-euler/blob/master/48.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/48.java)| java | 100%
-[Project Euler #49](https://github.com/amit11794/hackerrank-euler/blob/master/49.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/49.cpp)| c++ | 100%
-[Project Euler #50](https://github.com/amit11794/hackerrank-euler/blob/master/50.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/50.cpp)| c++ | 100%
-[Project Euler #51](https://github.com/amit11794/hackerrank-euler/blob/master/51.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/51.cpp)| c++ | 100%
-[Project Euler #52](https://github.com/amit11794/hackerrank-euler/blob/master/52.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/52.cpp)| c++ | 100%
-[Project Euler #53](https://github.com/amit11794/hackerrank-euler/blob/master/53.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/53.cpp)| c++ | 100%
-[Project Euler #54](https://github.com/amit11794/hackerrank-euler/blob/master/54.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/54.cpp)| c++ | 100%
-[Project Euler #55](https://github.com/amit11794/hackerrank-euler/blob/master/55.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/55.cpp)| c++ | 100%
-[Project Euler #56](https://github.com/amit11794/hackerrank-euler/blob/master/56.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/56.py)| python | 100%
-[Project Euler #57](https://github.com/amit11794/hackerrank-euler/blob/master/57.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/57.py)| python | 100%
-[Project Euler #58](https://github.com/amit11794/hackerrank-euler/blob/master/58.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/58.cpp)| c++ | 100%
-[Project Euler #59](https://github.com/amit11794/hackerrank-euler/blob/master/59.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/59.py)| python | 100%
-[Project Euler #60](https://github.com/amit11794/hackerrank-euler/blob/master/60.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/60.cpp)| c++ | 100%
+[Project Euler #41](https://github.com/amit11794/hackerrank-euler/blob/master/41.pdf) | [Pandigital prime](https://github.com/amit11794/hackerrank-euler/blob/master/41.java)| java | 100%
+[Project Euler #42](https://github.com/amit11794/hackerrank-euler/blob/master/42.pdf) | [Coded triangle numbers](https://github.com/amit11794/hackerrank-euler/blob/master/42.java)| java | 100%
+[Project Euler #43](https://github.com/amit11794/hackerrank-euler/blob/master/43.pdf) | [Sub-string divisibility](https://github.com/amit11794/hackerrank-euler/blob/master/43.cpp)| c++ |  100%
+[Project Euler #44](https://github.com/amit11794/hackerrank-euler/blob/master/44.pdf) | [Pentagon numbers](https://github.com/amit11794/hackerrank-euler/blob/master/44.java)| java | 100%
+[Project Euler #45](https://github.com/amit11794/hackerrank-euler/blob/master/45.pdf) | [Triangular, pentagonal, and hexagonal](https://github.com/amit11794/hackerrank-euler/blob/master/45.java)| java | 100%
+[Project Euler #46](https://github.com/amit11794/hackerrank-euler/blob/master/46.pdf) | [Goldbach's other conjecture](https://github.com/amit11794/hackerrank-euler/blob/master/46.java)| java | 100%
+[Project Euler #47](https://github.com/amit11794/hackerrank-euler/blob/master/47.pdf) | [Distinct primes factors](https://github.com/amit11794/hackerrank-euler/blob/master/47.java)| java | 100%
+[Project Euler #48](https://github.com/amit11794/hackerrank-euler/blob/master/48.pdf) | [Self powers](https://github.com/amit11794/hackerrank-euler/blob/master/48.java)| java | 100%
+[Project Euler #49](https://github.com/amit11794/hackerrank-euler/blob/master/49.pdf) | [Prime permutations](https://github.com/amit11794/hackerrank-euler/blob/master/49.cpp)| c++ | 100%
+[Project Euler #50](https://github.com/amit11794/hackerrank-euler/blob/master/50.pdf) | [Consecutive prime sum](https://github.com/amit11794/hackerrank-euler/blob/master/50.cpp)| c++ | 100%
+[Project Euler #51](https://github.com/amit11794/hackerrank-euler/blob/master/51.pdf) | [Prime digit replacements](https://github.com/amit11794/hackerrank-euler/blob/master/51.cpp)| c++ | 100%
+[Project Euler #52](https://github.com/amit11794/hackerrank-euler/blob/master/52.pdf) | [Permuted multiples](https://github.com/amit11794/hackerrank-euler/blob/master/52.cpp)| c++ | 100%
+[Project Euler #53](https://github.com/amit11794/hackerrank-euler/blob/master/53.pdf) | [Combinatoric selections](https://github.com/amit11794/hackerrank-euler/blob/master/53.cpp)| c++ | 100%
+[Project Euler #54](https://github.com/amit11794/hackerrank-euler/blob/master/54.pdf) | [Poker hands](https://github.com/amit11794/hackerrank-euler/blob/master/54.cpp)| c++ | 100%
+[Project Euler #55](https://github.com/amit11794/hackerrank-euler/blob/master/55.pdf) | [Lychrel numbers](https://github.com/amit11794/hackerrank-euler/blob/master/55.cpp)| c++ | 100%
+[Project Euler #56](https://github.com/amit11794/hackerrank-euler/blob/master/56.pdf) | [Powerful digit sum](https://github.com/amit11794/hackerrank-euler/blob/master/56.py)| python | 100%
+[Project Euler #57](https://github.com/amit11794/hackerrank-euler/blob/master/57.pdf) | [Square root convergents](https://github.com/amit11794/hackerrank-euler/blob/master/57.py)| python | 100%
+[Project Euler #58](https://github.com/amit11794/hackerrank-euler/blob/master/58.pdf) | [Spiral primes](https://github.com/amit11794/hackerrank-euler/blob/master/58.cpp)| c++ | 100%
+[Project Euler #59](https://github.com/amit11794/hackerrank-euler/blob/master/59.pdf) | [XOR decryption](https://github.com/amit11794/hackerrank-euler/blob/master/59.py)| python | 100%
+[Project Euler #60](https://github.com/amit11794/hackerrank-euler/blob/master/60.pdf) | [Prime pair sets](https://github.com/amit11794/hackerrank-euler/blob/master/60.cpp)| c++ | 100%
 [Project Euler #61](https://github.com/amit11794/hackerrank-euler/blob/master/61.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/61.cpp)| c++ | 100%
 [Project Euler #62](https://github.com/amit11794/hackerrank-euler/blob/master/62.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/62.cpp)| c++ | 100%
 [Project Euler #63](https://github.com/amit11794/hackerrank-euler/blob/master/63.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/63.cpp)| c++ | 100%
