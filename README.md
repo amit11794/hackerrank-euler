@@ -81,176 +81,176 @@ Problem | Solution | Language | Result
 [Project Euler #79](https://github.com/amit11794/hackerrank-euler/blob/master/problem/79.pdf) | [Passcode derivation](https://github.com/amit11794/hackerrank-euler/blob/master/solution/79.cpp)| c++ | 100.00
 [Project Euler #80](https://github.com/amit11794/hackerrank-euler/blob/master/problem/80.pdf) | [Square root digital expansion](https://github.com/amit11794/hackerrank-euler/blob/master/solution/80.py)| python | 100.00
 [Project Euler #81](https://github.com/amit11794/hackerrank-euler/blob/master/problem/81.pdf) | [Path sum: two ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/81.cpp)| c++ | 100.00
-[Project Euler #82](https://github.com/amit11794/hackerrank-euler/blob/master/problem/82.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/82.cpp)| |
-[Project Euler #83](https://github.com/amit11794/hackerrank-euler/blob/master/problem/83.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/83.cpp)| |
-[Project Euler #84](https://github.com/amit11794/hackerrank-euler/blob/master/problem/84.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/84.cpp)| |
-[Project Euler #85](https://github.com/amit11794/hackerrank-euler/blob/master/problem/85.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/85.cpp)| |
-[Project Euler #86](https://github.com/amit11794/hackerrank-euler/blob/master/problem/86.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/86.cpp)| |
-[Project Euler #87](https://github.com/amit11794/hackerrank-euler/blob/master/problem/87.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/87.cpp)| |
-[Project Euler #88](https://github.com/amit11794/hackerrank-euler/blob/master/problem/88.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/88.cpp)| |
-[Project Euler #89](https://github.com/amit11794/hackerrank-euler/blob/master/problem/89.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/89.cpp)| |
-[Project Euler #90](https://github.com/amit11794/hackerrank-euler/blob/master/problem/90.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/90.cpp)| |
-[Project Euler #91](https://github.com/amit11794/hackerrank-euler/blob/master/problem/91.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/91.cpp)| |
-[Project Euler #92](https://github.com/amit11794/hackerrank-euler/blob/master/problem/92.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/92.cpp)| |
-[Project Euler #93](https://github.com/amit11794/hackerrank-euler/blob/master/problem/93.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/93.cpp)| |
-[Project Euler #94](https://github.com/amit11794/hackerrank-euler/blob/master/problem/94.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/94.cpp)| |
-[Project Euler #95](https://github.com/amit11794/hackerrank-euler/blob/master/problem/95.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/95.cpp)| |
-[Project Euler #96](https://github.com/amit11794/hackerrank-euler/blob/master/problem/96.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/96.cpp)| |
-[Project Euler #97](https://github.com/amit11794/hackerrank-euler/blob/master/problem/97.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/97.cpp)| |
-[Project Euler #98](https://github.com/amit11794/hackerrank-euler/blob/master/problem/98.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/98.cpp)| |
-[Project Euler #99](https://github.com/amit11794/hackerrank-euler/blob/master/problem/99.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/99.cpp)| |
-[Project Euler #100](https://github.com/amit11794/hackerrank-euler/blob/master/problem/100.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/100.java)| |
-[Project Euler #101](https://github.com/amit11794/hackerrank-euler/blob/master/problem/101.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/101.java)| |
-[Project Euler #102](https://github.com/amit11794/hackerrank-euler/blob/master/problem/102.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/102.java)| |
-[Project Euler #103](https://github.com/amit11794/hackerrank-euler/blob/master/problem/103.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/103.java)| |
-[Project Euler #104](https://github.com/amit11794/hackerrank-euler/blob/master/problem/104.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/104.java)| |
-[Project Euler #105](https://github.com/amit11794/hackerrank-euler/blob/master/problem/105.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/105.java)| |
-[Project Euler #106](https://github.com/amit11794/hackerrank-euler/blob/master/problem/106.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/106.java)| |
-[Project Euler #107](https://github.com/amit11794/hackerrank-euler/blob/master/problem/107.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/107.java)| |
-[Project Euler #108](https://github.com/amit11794/hackerrank-euler/blob/master/problem/108.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/108.java)| |
-[Project Euler #109](https://github.com/amit11794/hackerrank-euler/blob/master/problem/109.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/109.java)| |
-[Project Euler #110](https://github.com/amit11794/hackerrank-euler/blob/master/problem/110.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/110.java)| |
-[Project Euler #111](https://github.com/amit11794/hackerrank-euler/blob/master/problem/111.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/111.java)| |
-[Project Euler #112](https://github.com/amit11794/hackerrank-euler/blob/master/problem/112.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/112.java)| |
-[Project Euler #113](https://github.com/amit11794/hackerrank-euler/blob/master/problem/113.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/113.java)| |
-[Project Euler #114](https://github.com/amit11794/hackerrank-euler/blob/master/problem/114.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/114.java)| |
-[Project Euler #115](https://github.com/amit11794/hackerrank-euler/blob/master/problem/115.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/115.java)| |
-[Project Euler #116](https://github.com/amit11794/hackerrank-euler/blob/master/problem/116.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/116.java)| |
-[Project Euler #117](https://github.com/amit11794/hackerrank-euler/blob/master/problem/117.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/117.java)| |
-[Project Euler #118](https://github.com/amit11794/hackerrank-euler/blob/master/problem/118.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/118.java)| |
-[Project Euler #119](https://github.com/amit11794/hackerrank-euler/blob/master/problem/119.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/119.java)| |
-[Project Euler #120](https://github.com/amit11794/hackerrank-euler/blob/master/problem/120.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/120.java)| |
-[Project Euler #121](https://github.com/amit11794/hackerrank-euler/blob/master/problem/121.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/121.java)| |
-[Project Euler #122](https://github.com/amit11794/hackerrank-euler/blob/master/problem/122.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/122.java)| |
-[Project Euler #123](https://github.com/amit11794/hackerrank-euler/blob/master/problem/123.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/123.java)| |
-[Project Euler #124](https://github.com/amit11794/hackerrank-euler/blob/master/problem/124.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/124.java)| |
-[Project Euler #125](https://github.com/amit11794/hackerrank-euler/blob/master/problem/125.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/125.java)| |
-[Project Euler #126](https://github.com/amit11794/hackerrank-euler/blob/master/problem/126.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/126.java)| |
-[Project Euler #127](https://github.com/amit11794/hackerrank-euler/blob/master/problem/127.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/127.java)| |
-[Project Euler #128](https://github.com/amit11794/hackerrank-euler/blob/master/problem/128.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/128.java)| |
-[Project Euler #129](https://github.com/amit11794/hackerrank-euler/blob/master/problem/129.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/129.java)| |
-[Project Euler #130](https://github.com/amit11794/hackerrank-euler/blob/master/problem/130.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/130.java)| |
-[Project Euler #131](https://github.com/amit11794/hackerrank-euler/blob/master/problem/131.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/131.java)| |
-[Project Euler #132](https://github.com/amit11794/hackerrank-euler/blob/master/problem/132.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/132.java)| |
-[Project Euler #133](https://github.com/amit11794/hackerrank-euler/blob/master/problem/133.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/133.java)| |
-[Project Euler #134](https://github.com/amit11794/hackerrank-euler/blob/master/problem/134.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/134.java)| |
-[Project Euler #135](https://github.com/amit11794/hackerrank-euler/blob/master/problem/135.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/135.java)| |
-[Project Euler #136](https://github.com/amit11794/hackerrank-euler/blob/master/problem/136.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/136.java)| |
-[Project Euler #137](https://github.com/amit11794/hackerrank-euler/blob/master/problem/137.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/137.java)| |
-[Project Euler #138](https://github.com/amit11794/hackerrank-euler/blob/master/problem/138.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/138.java)| |
-[Project Euler #139](https://github.com/amit11794/hackerrank-euler/blob/master/problem/139.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/139.java)| |
-[Project Euler #140](https://github.com/amit11794/hackerrank-euler/blob/master/problem/140.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/140.java)| |
-[Project Euler #141](https://github.com/amit11794/hackerrank-euler/blob/master/problem/141.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/141.java)| |
-[Project Euler #142](https://github.com/amit11794/hackerrank-euler/blob/master/problem/142.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/142.java)| |
-[Project Euler #143](https://github.com/amit11794/hackerrank-euler/blob/master/problem/143.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/143.java)| |
-[Project Euler #144](https://github.com/amit11794/hackerrank-euler/blob/master/problem/144.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/144.java)| |
-[Project Euler #145](https://github.com/amit11794/hackerrank-euler/blob/master/problem/145.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/145.java)| |
-[Project Euler #146](https://github.com/amit11794/hackerrank-euler/blob/master/problem/146.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/146.java)| |
-[Project Euler #147](https://github.com/amit11794/hackerrank-euler/blob/master/problem/147.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/147.java)| |
-[Project Euler #148](https://github.com/amit11794/hackerrank-euler/blob/master/problem/148.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/148.java)| |
-[Project Euler #149](https://github.com/amit11794/hackerrank-euler/blob/master/problem/149.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/149.java)| |
-[Project Euler #150](https://github.com/amit11794/hackerrank-euler/blob/master/problem/150.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/150.java)| |
-[Project Euler #151](https://github.com/amit11794/hackerrank-euler/blob/master/problem/151.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/151.java)| |
-[Project Euler #152](https://github.com/amit11794/hackerrank-euler/blob/master/problem/152.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/152.java)| |
-[Project Euler #153](https://github.com/amit11794/hackerrank-euler/blob/master/problem/153.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/153.java)| |
-[Project Euler #154](https://github.com/amit11794/hackerrank-euler/blob/master/problem/154.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/154.java)| |
-[Project Euler #155](https://github.com/amit11794/hackerrank-euler/blob/master/problem/155.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/155.java)| |
-[Project Euler #156](https://github.com/amit11794/hackerrank-euler/blob/master/problem/156.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/156.java)| |
-[Project Euler #157](https://github.com/amit11794/hackerrank-euler/blob/master/problem/157.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/157.java)| |
-[Project Euler #158](https://github.com/amit11794/hackerrank-euler/blob/master/problem/158.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/158.java)| |
-[Project Euler #159](https://github.com/amit11794/hackerrank-euler/blob/master/problem/159.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/159.java)| |
-[Project Euler #160](https://github.com/amit11794/hackerrank-euler/blob/master/problem/160.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/160.java)| |
-[Project Euler #161](https://github.com/amit11794/hackerrank-euler/blob/master/problem/161.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/161.java)| |
-[Project Euler #162](https://github.com/amit11794/hackerrank-euler/blob/master/problem/162.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/162.java)| |
-[Project Euler #163](https://github.com/amit11794/hackerrank-euler/blob/master/problem/163.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/163.java)| |
-[Project Euler #164](https://github.com/amit11794/hackerrank-euler/blob/master/problem/164.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/164.java)| |
-[Project Euler #165](https://github.com/amit11794/hackerrank-euler/blob/master/problem/165.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/165.java)| |
-[Project Euler #166](https://github.com/amit11794/hackerrank-euler/blob/master/problem/166.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/166.java)| |
-[Project Euler #167](https://github.com/amit11794/hackerrank-euler/blob/master/problem/167.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/167.java)| |
-[Project Euler #168](https://github.com/amit11794/hackerrank-euler/blob/master/problem/168.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/168.java)| |
-[Project Euler #169](https://github.com/amit11794/hackerrank-euler/blob/master/problem/169.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/169.java)| |
-[Project Euler #170](https://github.com/amit11794/hackerrank-euler/blob/master/problem/170.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/170.java)| |
-[Project Euler #171](https://github.com/amit11794/hackerrank-euler/blob/master/problem/171.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/171.java)| |
-[Project Euler #172](https://github.com/amit11794/hackerrank-euler/blob/master/problem/172.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/172.java)| |
-[Project Euler #173](https://github.com/amit11794/hackerrank-euler/blob/master/problem/173.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/173.java)| |
-[Project Euler #174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/174.java)| |
-[Project Euler #175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/175.java)| |
-[Project Euler #176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/176.java)| |
-[Project Euler #177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/177.java)| |
-[Project Euler #178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/178.java)| |
-[Project Euler #179](https://github.com/amit11794/hackerrank-euler/blob/master/problem/179.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/179.java)| |
-[Project Euler #180](https://github.com/amit11794/hackerrank-euler/blob/master/problem/180.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/180.java)| |
-[Project Euler #181](https://github.com/amit11794/hackerrank-euler/blob/master/problem/181.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/181.java)| |
-[Project Euler #182](https://github.com/amit11794/hackerrank-euler/blob/master/problem/182.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/182.java)| |
-[Project Euler #183](https://github.com/amit11794/hackerrank-euler/blob/master/problem/183.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/183.java)| |
-[Project Euler #184](https://github.com/amit11794/hackerrank-euler/blob/master/problem/184.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/184.java)| |
-[Project Euler #185](https://github.com/amit11794/hackerrank-euler/blob/master/problem/185.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/185.java)| |
-[Project Euler #186](https://github.com/amit11794/hackerrank-euler/blob/master/problem/186.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/186.java)| |
-[Project Euler #187](https://github.com/amit11794/hackerrank-euler/blob/master/problem/187.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/187.java)| |
-[Project Euler #188](https://github.com/amit11794/hackerrank-euler/blob/master/problem/188.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/188.java)| |
-[Project Euler #189](https://github.com/amit11794/hackerrank-euler/blob/master/problem/189.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/189.java)| |
-[Project Euler #190](https://github.com/amit11794/hackerrank-euler/blob/master/problem/190.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/190.java)| |
-[Project Euler #191](https://github.com/amit11794/hackerrank-euler/blob/master/problem/191.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/191.java)| |
-[Project Euler #192](https://github.com/amit11794/hackerrank-euler/blob/master/problem/192.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/192.java)| |
-[Project Euler #193](https://github.com/amit11794/hackerrank-euler/blob/master/problem/193.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/193.java)| |
-[Project Euler #194](https://github.com/amit11794/hackerrank-euler/blob/master/problem/194.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/194.java)| |
-[Project Euler #195](https://github.com/amit11794/hackerrank-euler/blob/master/problem/195.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/195.java)| |
-[Project Euler #196](https://github.com/amit11794/hackerrank-euler/blob/master/problem/196.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/196.java)| |
-[Project Euler #197](https://github.com/amit11794/hackerrank-euler/blob/master/problem/197.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/197.java)| |
-[Project Euler #198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/198.java)| |
-[Project Euler #199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/199.java)| |
-[Project Euler #200](https://github.com/amit11794/hackerrank-euler/blob/master/problem/200.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/200.java)| |
-[Project Euler #201](https://github.com/amit11794/hackerrank-euler/blob/master/problem/201.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/201.java)| |
-[Project Euler #202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/202.java)| |
-[Project Euler #203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/203.java)| |
-[Project Euler #204](https://github.com/amit11794/hackerrank-euler/blob/master/problem/204.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/204.java)| |
-[Project Euler #205](https://github.com/amit11794/hackerrank-euler/blob/master/problem/205.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/205.java)| |
-[Project Euler #206](https://github.com/amit11794/hackerrank-euler/blob/master/problem/206.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/206.java)| |
-[Project Euler #207](https://github.com/amit11794/hackerrank-euler/blob/master/problem/207.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/207.java)| |
-[Project Euler #208](https://github.com/amit11794/hackerrank-euler/blob/master/problem/208.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/208.java)| |
-[Project Euler #209](https://github.com/amit11794/hackerrank-euler/blob/master/problem/209.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/209.java)| |
-[Project Euler #210](https://github.com/amit11794/hackerrank-euler/blob/master/problem/210.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/210.java)| |
-[Project Euler #211](https://github.com/amit11794/hackerrank-euler/blob/master/problem/211.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/211.java)| |
-[Project Euler #212](https://github.com/amit11794/hackerrank-euler/blob/master/problem/212.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/212.java)| |
-[Project Euler #213](https://github.com/amit11794/hackerrank-euler/blob/master/problem/213.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/213.java)| |
-[Project Euler #214](https://github.com/amit11794/hackerrank-euler/blob/master/problem/214.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/214.java)| |
-[Project Euler #215](https://github.com/amit11794/hackerrank-euler/blob/master/problem/215.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/215.java)| |
-[Project Euler #216](https://github.com/amit11794/hackerrank-euler/blob/master/problem/216.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/216.java)| |
-[Project Euler #217](https://github.com/amit11794/hackerrank-euler/blob/master/problem/217.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/217.java)| |
-[Project Euler #218](https://github.com/amit11794/hackerrank-euler/blob/master/problem/218.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/218.java)| |
-[Project Euler #219](https://github.com/amit11794/hackerrank-euler/blob/master/problem/219.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/219.java)| |
-[Project Euler #220](https://github.com/amit11794/hackerrank-euler/blob/master/problem/220.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/220.java)| |
-[Project Euler #221](https://github.com/amit11794/hackerrank-euler/blob/master/problem/221.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/221.java)| |
-[Project Euler #222](https://github.com/amit11794/hackerrank-euler/blob/master/problem/222.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/222.java)| |
-[Project Euler #223](https://github.com/amit11794/hackerrank-euler/blob/master/problem/223.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/223.java)| |
-[Project Euler #224](https://github.com/amit11794/hackerrank-euler/blob/master/problem/224.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/224.java)| |
-[Project Euler #225](https://github.com/amit11794/hackerrank-euler/blob/master/problem/225.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/225.java)| |
-[Project Euler #226](https://github.com/amit11794/hackerrank-euler/blob/master/problem/226.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/226.java)| |
-[Project Euler #227](https://github.com/amit11794/hackerrank-euler/blob/master/problem/227.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/227.java)| |
-[Project Euler #228](https://github.com/amit11794/hackerrank-euler/blob/master/problem/228.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/228.java)| |
-[Project Euler #229](https://github.com/amit11794/hackerrank-euler/blob/master/problem/229.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/229.java)| |
-[Project Euler #230](https://github.com/amit11794/hackerrank-euler/blob/master/problem/230.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/230.java)| |
-[Project Euler #231](https://github.com/amit11794/hackerrank-euler/blob/master/problem/231.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/231.java)| |
-[Project Euler #232](https://github.com/amit11794/hackerrank-euler/blob/master/problem/232.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/232.java)| |
-[Project Euler #233](https://github.com/amit11794/hackerrank-euler/blob/master/problem/233.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/233.java)| |
-[Project Euler #234](https://github.com/amit11794/hackerrank-euler/blob/master/problem/234.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/234.java)| |
-[Project Euler #235](https://github.com/amit11794/hackerrank-euler/blob/master/problem/235.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/235.java)| |
-[Project Euler #236](https://github.com/amit11794/hackerrank-euler/blob/master/problem/236.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/236.java)| |
-[Project Euler #237](https://github.com/amit11794/hackerrank-euler/blob/master/problem/237.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/237.java)| |
-[Project Euler #238](https://github.com/amit11794/hackerrank-euler/blob/master/problem/238.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/238.java)| |
-[Project Euler #239](https://github.com/amit11794/hackerrank-euler/blob/master/problem/239.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/239.java)| |
-[Project Euler #240](https://github.com/amit11794/hackerrank-euler/blob/master/problem/240.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/240.java)| |
-[Project Euler #241](https://github.com/amit11794/hackerrank-euler/blob/master/problem/241.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/241.java)| |
-[Project Euler #242](https://github.com/amit11794/hackerrank-euler/blob/master/problem/242.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/242.java)| |
-[Project Euler #243](https://github.com/amit11794/hackerrank-euler/blob/master/problem/243.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/243.java)| |
-[Project Euler #244](https://github.com/amit11794/hackerrank-euler/blob/master/problem/244.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/244.java)| |
-[Project Euler #245](https://github.com/amit11794/hackerrank-euler/blob/master/problem/245.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/245.java)| |
-[Project Euler #246](https://github.com/amit11794/hackerrank-euler/blob/master/problem/246.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/246.java)| |
-[Project Euler #247](https://github.com/amit11794/hackerrank-euler/blob/master/problem/247.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/247.java)| |
-[Project Euler #248](https://github.com/amit11794/hackerrank-euler/blob/master/problem/248.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/248.java)| |
-[Project Euler #249](https://github.com/amit11794/hackerrank-euler/blob/master/problem/249.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/249.java)| |
-[Project Euler #250](https://github.com/amit11794/hackerrank-euler/blob/master/problem/250.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/250.java)| |
-[Project Euler #251](https://github.com/amit11794/hackerrank-euler/blob/master/problem/251.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/251.java)| |
-[Project Euler #252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/252.java)| |
-[Project Euler #253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/253.java)| |
-[Project Euler #254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/254.java)| |
+[Project Euler #82](https://github.com/amit11794/hackerrank-euler/blob/master/problem/82.pdf) | [Path sum: three ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/82.cpp)| c++ | 100.00
+[Project Euler #83](https://github.com/amit11794/hackerrank-euler/blob/master/problem/83.pdf) | [Path sum: four ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/83.cpp)| c++ | 100.00
+[Project Euler #84](https://github.com/amit11794/hackerrank-euler/blob/master/problem/84.pdf) | [Monopoly odds](https://github.com/amit11794/hackerrank-euler/blob/master/solution/84.cpp)| c++ | 100.00
+[Project Euler #85](https://github.com/amit11794/hackerrank-euler/blob/master/problem/85.pdf) | [Counting rectangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/85.cpp)| c++ | 100.00
+[Project Euler #86](https://github.com/amit11794/hackerrank-euler/blob/master/problem/86.pdf) | [Cuboid route](https://github.com/amit11794/hackerrank-euler/blob/master/solution/86.java)| java | 100.00
+[Project Euler #87](https://github.com/amit11794/hackerrank-euler/blob/master/problem/87.pdf) | [Prime power triples](https://github.com/amit11794/hackerrank-euler/blob/master/solution/87.cpp)| c++ | 100.00
+[Project Euler #88](https://github.com/amit11794/hackerrank-euler/blob/master/problem/88.pdf) | [Product-sum numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/88.cpp)| c++ | 100.00
+[Project Euler #89](https://github.com/amit11794/hackerrank-euler/blob/master/problem/89.pdf) | [Roman numerals](https://github.com/amit11794/hackerrank-euler/blob/master/solution/89.py)| python | 100.00
+[Project Euler #90](https://github.com/amit11794/hackerrank-euler/blob/master/problem/90.pdf) | [Cube digit pairs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/90.cpp)| c++ | 100.00
+[Project Euler #91](https://github.com/amit11794/hackerrank-euler/blob/master/problem/91.pdf) | [Right triangles with integer coordinates](https://github.com/amit11794/hackerrank-euler/blob/master/solution/91.cpp)| c++ | 100.00
+[Project Euler #92](https://github.com/amit11794/hackerrank-euler/blob/master/problem/92.pdf) | [Square digit chains](https://github.com/amit11794/hackerrank-euler/blob/master/solution/92.cpp)| c++ | 100.00
+[Project Euler #93](https://github.com/amit11794/hackerrank-euler/blob/master/problem/93.pdf) | [Arithmetic expressions](https://github.com/amit11794/hackerrank-euler/blob/master/solution/93.java)| java | 100.00
+[Project Euler #94](https://github.com/amit11794/hackerrank-euler/blob/master/problem/94.pdf) | [Almost equilateral triangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/94.java)| java | 100.00
+[Project Euler #95](https://github.com/amit11794/hackerrank-euler/blob/master/problem/95.pdf) | [Amicable chains](https://github.com/amit11794/hackerrank-euler/blob/master/solution/95.java)| java | 100.00
+[Project Euler #96](https://github.com/amit11794/hackerrank-euler/blob/master/problem/96.pdf) | [Su Doku](https://github.com/amit11794/hackerrank-euler/blob/master/solution/96.java)| java | 100.00
+[Project Euler #97](https://github.com/amit11794/hackerrank-euler/blob/master/problem/97.pdf) | [Large non-Mersenne prime](https://github.com/amit11794/hackerrank-euler/blob/master/solution/97.cpp)| c++ | 100.00
+[Project Euler #98](https://github.com/amit11794/hackerrank-euler/blob/master/problem/98.pdf) | [Anagramic squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/98.cpp)| c++ | 100.00
+[Project Euler #99](https://github.com/amit11794/hackerrank-euler/blob/master/problem/99.pdf) | [Largest exponential](https://github.com/amit11794/hackerrank-euler/blob/master/solution/99.java)| java | 100.00
+[Project Euler #100](https://github.com/amit11794/hackerrank-euler/blob/master/problem/100.pdf) | [Arranged probability](https://github.com/amit11794/hackerrank-euler/blob/master/solution/100.cpp)| c++ | 100.00
+[Project Euler #101](https://github.com/amit11794/hackerrank-euler/blob/master/problem/101.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/101.cpp)| c++ | 100.00
+[Project Euler #102](https://github.com/amit11794/hackerrank-euler/blob/master/problem/102.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/102.cpp)| c++ | 100.00
+[Project Euler #103](https://github.com/amit11794/hackerrank-euler/blob/master/problem/103.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/103.cpp)| c++ | 100.00
+[Project Euler #104](https://github.com/amit11794/hackerrank-euler/blob/master/problem/104.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/104.cpp)| c++ | 100.00
+[Project Euler #105](https://github.com/amit11794/hackerrank-euler/blob/master/problem/105.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/105.cpp)| c++ | 100.00
+[Project Euler #106](https://github.com/amit11794/hackerrank-euler/blob/master/problem/106.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/106.cpp)| c++ | 100.00
+[Project Euler #107](https://github.com/amit11794/hackerrank-euler/blob/master/problem/107.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/107.cpp)| c++ | 100.00
+[Project Euler #108](https://github.com/amit11794/hackerrank-euler/blob/master/problem/108.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/108.cpp)| c++ | 100.00
+[Project Euler #109](https://github.com/amit11794/hackerrank-euler/blob/master/problem/109.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/109.cpp)| c++ | 100.00
+[Project Euler #110](https://github.com/amit11794/hackerrank-euler/blob/master/problem/110.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/110.cpp)| c++ | 100.00
+[Project Euler #111](https://github.com/amit11794/hackerrank-euler/blob/master/problem/111.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/111.cpp)| c++ | 100.00
+[Project Euler #112](https://github.com/amit11794/hackerrank-euler/blob/master/problem/112.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/112.cpp)| c++ | 100.00
+[Project Euler #113](https://github.com/amit11794/hackerrank-euler/blob/master/problem/113.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/113.cpp)| c++ | 100.00
+[Project Euler #114](https://github.com/amit11794/hackerrank-euler/blob/master/problem/114.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/114.cpp)| c++ | 100.00
+[Project Euler #115](https://github.com/amit11794/hackerrank-euler/blob/master/problem/115.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/115.cpp)| c++ | 100.00
+[Project Euler #116](https://github.com/amit11794/hackerrank-euler/blob/master/problem/116.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/116.cpp)| c++ | 100.00
+[Project Euler #117](https://github.com/amit11794/hackerrank-euler/blob/master/problem/117.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/117.cpp)| c++ | 100.00
+[Project Euler #118](https://github.com/amit11794/hackerrank-euler/blob/master/problem/118.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/118.cpp)| c++ | 100.00
+[Project Euler #119](https://github.com/amit11794/hackerrank-euler/blob/master/problem/119.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/119.cpp)| c++ | 100.00
+[Project Euler #120](https://github.com/amit11794/hackerrank-euler/blob/master/problem/120.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/120.cpp)| c++ | 100.00
+[Project Euler #121](https://github.com/amit11794/hackerrank-euler/blob/master/problem/121.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/121.cpp)| c++ | 100.00
+[Project Euler #122](https://github.com/amit11794/hackerrank-euler/blob/master/problem/122.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/122.cpp)| c++ | 100.00
+[Project Euler #123](https://github.com/amit11794/hackerrank-euler/blob/master/problem/123.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/123.cpp)| c++ | 100.00
+[Project Euler #124](https://github.com/amit11794/hackerrank-euler/blob/master/problem/124.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/124.cpp)| c++ | 100.00
+[Project Euler #125](https://github.com/amit11794/hackerrank-euler/blob/master/problem/125.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/125.cpp)| c++ | 100.00
+[Project Euler #126](https://github.com/amit11794/hackerrank-euler/blob/master/problem/126.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/126.cpp)| c++ | 100.00
+[Project Euler #127](https://github.com/amit11794/hackerrank-euler/blob/master/problem/127.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/127.cpp)| c++ | 100.00
+[Project Euler #128](https://github.com/amit11794/hackerrank-euler/blob/master/problem/128.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/128.cpp)| c++ | 100.00
+[Project Euler #129](https://github.com/amit11794/hackerrank-euler/blob/master/problem/129.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/129.cpp)| c++ | 100.00
+[Project Euler #130](https://github.com/amit11794/hackerrank-euler/blob/master/problem/130.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/130.cpp)| c++ | 100.00
+[Project Euler #131](https://github.com/amit11794/hackerrank-euler/blob/master/problem/131.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/131.cpp)| c++ | 100.00
+[Project Euler #132](https://github.com/amit11794/hackerrank-euler/blob/master/problem/132.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/132.cpp)| c++ | 100.00
+[Project Euler #133](https://github.com/amit11794/hackerrank-euler/blob/master/problem/133.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/133.cpp)| c++ | 100.00
+[Project Euler #134](https://github.com/amit11794/hackerrank-euler/blob/master/problem/134.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/134.cpp)| c++ | 100.00
+[Project Euler #135](https://github.com/amit11794/hackerrank-euler/blob/master/problem/135.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/135.cpp)| c++ | 100.00
+[Project Euler #136](https://github.com/amit11794/hackerrank-euler/blob/master/problem/136.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/136.cpp)| c++ | 100.00
+[Project Euler #137](https://github.com/amit11794/hackerrank-euler/blob/master/problem/137.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/137.cpp)| c++ | 100.00
+[Project Euler #138](https://github.com/amit11794/hackerrank-euler/blob/master/problem/138.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/138.cpp)| c++ | 100.00
+[Project Euler #139](https://github.com/amit11794/hackerrank-euler/blob/master/problem/139.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/139.cpp)| c++ | 100.00
+[Project Euler #140](https://github.com/amit11794/hackerrank-euler/blob/master/problem/140.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/140.cpp)| c++ | 100.00
+[Project Euler #141](https://github.com/amit11794/hackerrank-euler/blob/master/problem/141.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/141.cpp)| c++ | 100.00
+[Project Euler #142](https://github.com/amit11794/hackerrank-euler/blob/master/problem/142.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/142.cpp)| c++ | 100.00
+[Project Euler #143](https://github.com/amit11794/hackerrank-euler/blob/master/problem/143.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/143.cpp)| c++ | 100.00
+[Project Euler #144](https://github.com/amit11794/hackerrank-euler/blob/master/problem/144.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/144.cpp)| c++ | 100.00
+[Project Euler #145](https://github.com/amit11794/hackerrank-euler/blob/master/problem/145.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/145.cpp)| c++ | 100.00
+[Project Euler #146](https://github.com/amit11794/hackerrank-euler/blob/master/problem/146.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/146.cpp)| c++ | 100.00
+[Project Euler #147](https://github.com/amit11794/hackerrank-euler/blob/master/problem/147.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/147.cpp)| c++ | 100.00
+[Project Euler #148](https://github.com/amit11794/hackerrank-euler/blob/master/problem/148.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/148.cpp)| c++ | 100.00
+[Project Euler #149](https://github.com/amit11794/hackerrank-euler/blob/master/problem/149.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/149.cpp)| c++ | 100.00
+[Project Euler #150](https://github.com/amit11794/hackerrank-euler/blob/master/problem/150.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/150.cpp)| c++ | 100.00
+[Project Euler #151](https://github.com/amit11794/hackerrank-euler/blob/master/problem/151.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/151.cpp)| c++ | 100.00
+[Project Euler #152](https://github.com/amit11794/hackerrank-euler/blob/master/problem/152.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/152.cpp)| c++ | 100.00
+[Project Euler #153](https://github.com/amit11794/hackerrank-euler/blob/master/problem/153.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/153.cpp)| c++ | 100.00
+[Project Euler #154](https://github.com/amit11794/hackerrank-euler/blob/master/problem/154.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/154.cpp)| c++ | 100.00
+[Project Euler #155](https://github.com/amit11794/hackerrank-euler/blob/master/problem/155.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/155.cpp)| c++ | 100.00
+[Project Euler #156](https://github.com/amit11794/hackerrank-euler/blob/master/problem/156.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/156.cpp)| c++ | 100.00
+[Project Euler #157](https://github.com/amit11794/hackerrank-euler/blob/master/problem/157.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/157.cpp)| c++ | 100.00
+[Project Euler #158](https://github.com/amit11794/hackerrank-euler/blob/master/problem/158.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/158.cpp)| c++ | 100.00
+[Project Euler #159](https://github.com/amit11794/hackerrank-euler/blob/master/problem/159.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/159.cpp)| c++ | 100.00
+[Project Euler #160](https://github.com/amit11794/hackerrank-euler/blob/master/problem/160.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/160.cpp)| c++ | 100.00
+[Project Euler #161](https://github.com/amit11794/hackerrank-euler/blob/master/problem/161.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/161.cpp)| c++ | 100.00
+[Project Euler #162](https://github.com/amit11794/hackerrank-euler/blob/master/problem/162.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/162.cpp)| c++ | 100.00
+[Project Euler #163](https://github.com/amit11794/hackerrank-euler/blob/master/problem/163.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/163.cpp)| c++ | 100.00
+[Project Euler #164](https://github.com/amit11794/hackerrank-euler/blob/master/problem/164.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/164.cpp)| c++ | 100.00
+[Project Euler #165](https://github.com/amit11794/hackerrank-euler/blob/master/problem/165.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/165.cpp)| c++ | 100.00
+[Project Euler #166](https://github.com/amit11794/hackerrank-euler/blob/master/problem/166.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/166.cpp)| c++ | 100.00
+[Project Euler #167](https://github.com/amit11794/hackerrank-euler/blob/master/problem/167.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/167.cpp)| c++ | 100.00
+[Project Euler #168](https://github.com/amit11794/hackerrank-euler/blob/master/problem/168.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/168.cpp)| c++ | 100.00
+[Project Euler #169](https://github.com/amit11794/hackerrank-euler/blob/master/problem/169.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/169.cpp)| c++ | 100.00
+[Project Euler #170](https://github.com/amit11794/hackerrank-euler/blob/master/problem/170.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/170.cpp)| c++ | 100.00
+[Project Euler #171](https://github.com/amit11794/hackerrank-euler/blob/master/problem/171.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/171.cpp)| c++ | 100.00
+[Project Euler #172](https://github.com/amit11794/hackerrank-euler/blob/master/problem/172.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/172.cpp)| c++ | 100.00
+[Project Euler #173](https://github.com/amit11794/hackerrank-euler/blob/master/problem/173.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/173.cpp)| c++ | 100.00
+[Project Euler #174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/174.cpp)| c++ | 100.00
+[Project Euler #175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/175.cpp)| c++ | 100.00
+[Project Euler #176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/176.cpp)| c++ | 100.00
+[Project Euler #177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/177.cpp)| c++ | 100.00
+[Project Euler #178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/178.cpp)| c++ | 100.00
+[Project Euler #179](https://github.com/amit11794/hackerrank-euler/blob/master/problem/179.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/179.cpp)| c++ | 100.00
+[Project Euler #180](https://github.com/amit11794/hackerrank-euler/blob/master/problem/180.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/180.cpp)| c++ | 100.00
+[Project Euler #181](https://github.com/amit11794/hackerrank-euler/blob/master/problem/181.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/181.cpp)| c++ | 100.00
+[Project Euler #182](https://github.com/amit11794/hackerrank-euler/blob/master/problem/182.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/182.cpp)| c++ | 100.00
+[Project Euler #183](https://github.com/amit11794/hackerrank-euler/blob/master/problem/183.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/183.cpp)| c++ | 100.00
+[Project Euler #184](https://github.com/amit11794/hackerrank-euler/blob/master/problem/184.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/184.cpp)| c++ | 100.00
+[Project Euler #185](https://github.com/amit11794/hackerrank-euler/blob/master/problem/185.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/185.cpp)| c++ | 100.00
+[Project Euler #186](https://github.com/amit11794/hackerrank-euler/blob/master/problem/186.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/186.cpp)| c++ | 100.00
+[Project Euler #187](https://github.com/amit11794/hackerrank-euler/blob/master/problem/187.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/187.cpp)| c++ | 100.00
+[Project Euler #188](https://github.com/amit11794/hackerrank-euler/blob/master/problem/188.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/188.cpp)| c++ | 100.00
+[Project Euler #189](https://github.com/amit11794/hackerrank-euler/blob/master/problem/189.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/189.cpp)| c++ | 100.00
+[Project Euler #190](https://github.com/amit11794/hackerrank-euler/blob/master/problem/190.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/190.cpp)| c++ | 100.00
+[Project Euler #191](https://github.com/amit11794/hackerrank-euler/blob/master/problem/191.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/191.cpp)| c++ | 100.00
+[Project Euler #192](https://github.com/amit11794/hackerrank-euler/blob/master/problem/192.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/192.cpp)| c++ | 100.00
+[Project Euler #193](https://github.com/amit11794/hackerrank-euler/blob/master/problem/193.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/193.cpp)| c++ | 100.00
+[Project Euler #194](https://github.com/amit11794/hackerrank-euler/blob/master/problem/194.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/194.cpp)| c++ | 100.00
+[Project Euler #195](https://github.com/amit11794/hackerrank-euler/blob/master/problem/195.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/195.cpp)| c++ | 100.00
+[Project Euler #196](https://github.com/amit11794/hackerrank-euler/blob/master/problem/196.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/196.cpp)| c++ | 100.00
+[Project Euler #197](https://github.com/amit11794/hackerrank-euler/blob/master/problem/197.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/197.cpp)| c++ | 100.00
+[Project Euler #198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/198.cpp)| c++ | 100.00
+[Project Euler #199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/199.cpp)| c++ | 100.00
+[Project Euler #200](https://github.com/amit11794/hackerrank-euler/blob/master/problem/200.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/200.cpp)| c++ | 100.00
+[Project Euler #201](https://github.com/amit11794/hackerrank-euler/blob/master/problem/201.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/201.cpp)| c++ | 100.00
+[Project Euler #202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/202.cpp)| c++ | 100.00
+[Project Euler #203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/203.cpp)| c++ | 100.00
+[Project Euler #204](https://github.com/amit11794/hackerrank-euler/blob/master/problem/204.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/204.cpp)| c++ | 100.00
+[Project Euler #205](https://github.com/amit11794/hackerrank-euler/blob/master/problem/205.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/205.cpp)| c++ | 100.00
+[Project Euler #206](https://github.com/amit11794/hackerrank-euler/blob/master/problem/206.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/206.cpp)| c++ | 100.00
+[Project Euler #207](https://github.com/amit11794/hackerrank-euler/blob/master/problem/207.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/207.cpp)| c++ | 100.00
+[Project Euler #208](https://github.com/amit11794/hackerrank-euler/blob/master/problem/208.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/208.cpp)| c++ | 100.00
+[Project Euler #209](https://github.com/amit11794/hackerrank-euler/blob/master/problem/209.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/209.cpp)| c++ | 100.00
+[Project Euler #210](https://github.com/amit11794/hackerrank-euler/blob/master/problem/210.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/210.cpp)| c++ | 100.00
+[Project Euler #211](https://github.com/amit11794/hackerrank-euler/blob/master/problem/211.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/211.cpp)| c++ | 100.00
+[Project Euler #212](https://github.com/amit11794/hackerrank-euler/blob/master/problem/212.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/212.cpp)| c++ | 100.00
+[Project Euler #213](https://github.com/amit11794/hackerrank-euler/blob/master/problem/213.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/213.cpp)| c++ | 100.00
+[Project Euler #214](https://github.com/amit11794/hackerrank-euler/blob/master/problem/214.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/214.cpp)| c++ | 100.00
+[Project Euler #215](https://github.com/amit11794/hackerrank-euler/blob/master/problem/215.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/215.cpp)| c++ | 100.00
+[Project Euler #216](https://github.com/amit11794/hackerrank-euler/blob/master/problem/216.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/216.cpp)| c++ | 100.00
+[Project Euler #217](https://github.com/amit11794/hackerrank-euler/blob/master/problem/217.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/217.cpp)| c++ | 100.00
+[Project Euler #218](https://github.com/amit11794/hackerrank-euler/blob/master/problem/218.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/218.cpp)| c++ | 100.00
+[Project Euler #219](https://github.com/amit11794/hackerrank-euler/blob/master/problem/219.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/219.cpp)| c++ | 100.00
+[Project Euler #220](https://github.com/amit11794/hackerrank-euler/blob/master/problem/220.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/220.cpp)| c++ | 100.00
+[Project Euler #221](https://github.com/amit11794/hackerrank-euler/blob/master/problem/221.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/221.cpp)| c++ | 100.00
+[Project Euler #222](https://github.com/amit11794/hackerrank-euler/blob/master/problem/222.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/222.cpp)| c++ | 100.00
+[Project Euler #223](https://github.com/amit11794/hackerrank-euler/blob/master/problem/223.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/223.cpp)| c++ | 100.00
+[Project Euler #224](https://github.com/amit11794/hackerrank-euler/blob/master/problem/224.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/224.cpp)| c++ | 100.00
+[Project Euler #225](https://github.com/amit11794/hackerrank-euler/blob/master/problem/225.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/225.cpp)| c++ | 100.00
+[Project Euler #226](https://github.com/amit11794/hackerrank-euler/blob/master/problem/226.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/226.cpp)| c++ | 100.00
+[Project Euler #227](https://github.com/amit11794/hackerrank-euler/blob/master/problem/227.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/227.cpp)| c++ | 100.00
+[Project Euler #228](https://github.com/amit11794/hackerrank-euler/blob/master/problem/228.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/228.cpp)| c++ | 100.00
+[Project Euler #229](https://github.com/amit11794/hackerrank-euler/blob/master/problem/229.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/229.cpp)| c++ | 100.00
+[Project Euler #230](https://github.com/amit11794/hackerrank-euler/blob/master/problem/230.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/230.cpp)| c++ | 100.00
+[Project Euler #231](https://github.com/amit11794/hackerrank-euler/blob/master/problem/231.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/231.cpp)| c++ | 100.00
+[Project Euler #232](https://github.com/amit11794/hackerrank-euler/blob/master/problem/232.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/232.cpp)| c++ | 100.00
+[Project Euler #233](https://github.com/amit11794/hackerrank-euler/blob/master/problem/233.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/233.cpp)| c++ | 100.00
+[Project Euler #234](https://github.com/amit11794/hackerrank-euler/blob/master/problem/234.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/234.cpp)| c++ | 100.00
+[Project Euler #235](https://github.com/amit11794/hackerrank-euler/blob/master/problem/235.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/235.cpp)| c++ | 100.00
+[Project Euler #236](https://github.com/amit11794/hackerrank-euler/blob/master/problem/236.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/236.cpp)| c++ | 100.00
+[Project Euler #237](https://github.com/amit11794/hackerrank-euler/blob/master/problem/237.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/237.cpp)| c++ | 100.00
+[Project Euler #238](https://github.com/amit11794/hackerrank-euler/blob/master/problem/238.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/238.cpp)| c++ | 100.00
+[Project Euler #239](https://github.com/amit11794/hackerrank-euler/blob/master/problem/239.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/239.cpp)| c++ | 100.00
+[Project Euler #240](https://github.com/amit11794/hackerrank-euler/blob/master/problem/240.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/240.cpp)| c++ | 100.00
+[Project Euler #241](https://github.com/amit11794/hackerrank-euler/blob/master/problem/241.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/241.cpp)| c++ | 100.00
+[Project Euler #242](https://github.com/amit11794/hackerrank-euler/blob/master/problem/242.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/242.cpp)| c++ | 100.00
+[Project Euler #243](https://github.com/amit11794/hackerrank-euler/blob/master/problem/243.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/243.cpp)| c++ | 100.00
+[Project Euler #244](https://github.com/amit11794/hackerrank-euler/blob/master/problem/244.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/244.cpp)| c++ | 100.00
+[Project Euler #245](https://github.com/amit11794/hackerrank-euler/blob/master/problem/245.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/245.cpp)| c++ | 100.00
+[Project Euler #246](https://github.com/amit11794/hackerrank-euler/blob/master/problem/246.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/246.cpp)| c++ | 100.00
+[Project Euler #247](https://github.com/amit11794/hackerrank-euler/blob/master/problem/247.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/247.cpp)| c++ | 100.00
+[Project Euler #248](https://github.com/amit11794/hackerrank-euler/blob/master/problem/248.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/248.cpp)| c++ | 100.00
+[Project Euler #249](https://github.com/amit11794/hackerrank-euler/blob/master/problem/249.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/249.cpp)| c++ | 100.00
+[Project Euler #250](https://github.com/amit11794/hackerrank-euler/blob/master/problem/250.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/250.cpp)| c++ | 100.00
+[Project Euler #251](https://github.com/amit11794/hackerrank-euler/blob/master/problem/251.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/251.cpp)| c++ | 100.00
+[Project Euler #252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/252.cpp)| c++ | 100.00
+[Project Euler #253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/253.cpp)| c++ | 100.00
+[Project Euler #254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/254.cpp)| c++ | 100.00
