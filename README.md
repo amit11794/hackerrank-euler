@@ -83,13 +83,13 @@ Problem | Solution | Language | Result
 [Project Euler #81](https://github.com/amit11794/hackerrank-euler/blob/master/problem/81.pdf) | [Path sum: two ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/81.cpp)| c++ | 100.00
 [Project Euler #82](https://github.com/amit11794/hackerrank-euler/blob/master/problem/82.pdf) | [Path sum: three ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/82.cpp)| c++ | 100.00
 [Project Euler #83](https://github.com/amit11794/hackerrank-euler/blob/master/problem/83.pdf) | [Path sum: four ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/83.cpp)| c++ | 100.00
-[Project Euler #84](https://github.com/amit11794/hackerrank-euler/blob/master/problem/84.pdf) | [Monopoly odds](https://github.com/amit11794/hackerrank-euler/blob/master/solution/84.cpp)| c++ | 100.00
+[Project Euler #84](https://github.com/amit11794/hackerrank-euler/blob/master/problem/84.pdf) | [Monopoly odds](https://github.com/amit11794/hackerrank-euler/blob/master/solution/84.cpp)| c++ | 10.00
 [Project Euler #85](https://github.com/amit11794/hackerrank-euler/blob/master/problem/85.pdf) | [Counting rectangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/85.cpp)| c++ | 100.00
 [Project Euler #86](https://github.com/amit11794/hackerrank-euler/blob/master/problem/86.pdf) | [Cuboid route](https://github.com/amit11794/hackerrank-euler/blob/master/solution/86.java)| java | 100.00
 [Project Euler #87](https://github.com/amit11794/hackerrank-euler/blob/master/problem/87.pdf) | [Prime power triples](https://github.com/amit11794/hackerrank-euler/blob/master/solution/87.cpp)| c++ | 100.00
 [Project Euler #88](https://github.com/amit11794/hackerrank-euler/blob/master/problem/88.pdf) | [Product-sum numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/88.cpp)| c++ | 100.00
 [Project Euler #89](https://github.com/amit11794/hackerrank-euler/blob/master/problem/89.pdf) | [Roman numerals](https://github.com/amit11794/hackerrank-euler/blob/master/solution/89.py)| python | 100.00
-[Project Euler #90](https://github.com/amit11794/hackerrank-euler/blob/master/problem/90.pdf) | [Cube digit pairs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/90.cpp)| c++ | 100.00
+[Project Euler #90](https://github.com/amit11794/hackerrank-euler/blob/master/problem/90.pdf) | [Cube digit pairs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/90.cpp)| c++ | 67.50
 [Project Euler #91](https://github.com/amit11794/hackerrank-euler/blob/master/problem/91.pdf) | [Right triangles with integer coordinates](https://github.com/amit11794/hackerrank-euler/blob/master/solution/91.cpp)| c++ | 100.00
 [Project Euler #92](https://github.com/amit11794/hackerrank-euler/blob/master/problem/92.pdf) | [Square digit chains](https://github.com/amit11794/hackerrank-euler/blob/master/solution/92.cpp)| c++ | 100.00
 [Project Euler #93](https://github.com/amit11794/hackerrank-euler/blob/master/problem/93.pdf) | [Arithmetic expressions](https://github.com/amit11794/hackerrank-euler/blob/master/solution/93.java)| java | 100.00
@@ -99,7 +99,7 @@ Problem | Solution | Language | Result
 [Project Euler #97](https://github.com/amit11794/hackerrank-euler/blob/master/problem/97.pdf) | [Large non-Mersenne prime](https://github.com/amit11794/hackerrank-euler/blob/master/solution/97.cpp)| c++ | 100.00
 [Project Euler #98](https://github.com/amit11794/hackerrank-euler/blob/master/problem/98.pdf) | [Anagramic squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/98.cpp)| c++ | 100.00
 [Project Euler #99](https://github.com/amit11794/hackerrank-euler/blob/master/problem/99.pdf) | [Largest exponential](https://github.com/amit11794/hackerrank-euler/blob/master/solution/99.java)| java | 100.00
-[Project Euler #100](https://github.com/amit11794/hackerrank-euler/blob/master/problem/100.pdf) | [Arranged probability](https://github.com/amit11794/hackerrank-euler/blob/master/solution/100.cpp)| c++ | 100.00
+[Project Euler #100](https://github.com/amit11794/hackerrank-euler/blob/master/problem/100.pdf) | [Arranged probability](https://github.com/amit11794/hackerrank-euler/blob/master/solution/100.cpp)| c++ | 22.22
 [Project Euler #101](https://github.com/amit11794/hackerrank-euler/blob/master/problem/101.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/101.cpp)| c++ | 100.00
 [Project Euler #102](https://github.com/amit11794/hackerrank-euler/blob/master/problem/102.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/102.cpp)| c++ | 100.00
 [Project Euler #103](https://github.com/amit11794/hackerrank-euler/blob/master/problem/103.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/103.cpp)| c++ | 100.00
