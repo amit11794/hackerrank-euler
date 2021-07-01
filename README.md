@@ -7,11 +7,11 @@
 
 [Top 5, India 😎🤘](https://www.hackerrank.com/contests/projecteuler/leaderboard?filter=India&filter_on=country&page=1)
 
-![Leaderboard-India](https://github.com/amit11794/hackerrank-euler/blob/master/resources/Leaderboard-India.png)
+![Leaderboard-India](https://github.com/amit11794/hackerrank-euler/blob/master/res/Leaderboard-India.png)
 
 [29th, Universe 🤣](https://www.hackerrank.com/contests/projecteuler/leaderboard)
 
-![Leaderboard-World](https://github.com/amit11794/hackerrank-euler/blob/master/resources/Leaderboard-World.png)
+![Leaderboard-World](https://github.com/amit11794/hackerrank-euler/blob/master/res/Leaderboard-World.png)
 
 Many problems are yet to solve, hoping to jump higher 😜...
 
