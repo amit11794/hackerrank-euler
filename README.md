@@ -127,21 +127,21 @@ Problem | Solution | Language | Result | Comments
 [Project Euler #108](https://github.com/amit11794/hackerrank-euler/blob/master/problem/108.pdf) | [Diophantine reciprocals I](https://github.com/amit11794/hackerrank-euler/blob/master/solution/108.cpp)| `c++` | `36.36` | Terminated due to timeout
 [Project Euler #109](https://github.com/amit11794/hackerrank-euler/blob/master/problem/109.pdf) | Darts | | | Unsolved
 [Project Euler #110](https://github.com/amit11794/hackerrank-euler/blob/master/problem/110.pdf) | [Diophantine reciprocals II](https://github.com/amit11794/hackerrank-euler/blob/master/solution/110.cpp)| `c++` | `50.0` | Wrong Answer
-[Project Euler #111](https://github.com/amit11794/hackerrank-euler/blob/master/problem/111.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/111.cpp)| `c++` | `100.00` | 
+[Project Euler #111](https://github.com/amit11794/hackerrank-euler/blob/master/problem/111.pdf) | [Primes with runs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/111.py)| `python` | `100.00` | 
 [Project Euler #112](https://github.com/amit11794/hackerrank-euler/blob/master/problem/112.pdf) | Bouncy numbers | | | Unsolved
-[Project Euler #113](https://github.com/amit11794/hackerrank-euler/blob/master/problem/113.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/113.cpp)| `c++` | `100.00` | 
-[Project Euler #114](https://github.com/amit11794/hackerrank-euler/blob/master/problem/114.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/114.cpp)| `c++` | `100.00` | 
+[Project Euler #113](https://github.com/amit11794/hackerrank-euler/blob/master/problem/113.pdf) | [Non-bouncy numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/113.cpp)| `c++` | `100.00` | 
+[Project Euler #114](https://github.com/amit11794/hackerrank-euler/blob/master/problem/114.pdf) | [Counting block combinations I](https://github.com/amit11794/hackerrank-euler/blob/master/solution/114.cpp)| `c++` | `100.00` | 
 [Project Euler #115](https://github.com/amit11794/hackerrank-euler/blob/master/problem/115.pdf) | Counting block combinations II | | | Unsolved
-[Project Euler #116](https://github.com/amit11794/hackerrank-euler/blob/master/problem/116.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/116.cpp)| `c++` | `100.00` | 
-[Project Euler #117](https://github.com/amit11794/hackerrank-euler/blob/master/problem/117.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/117.cpp)| `c++` | `100.00` | 
-[Project Euler #118](https://github.com/amit11794/hackerrank-euler/blob/master/problem/118.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/118.cpp)| `c++` | `100.00` | 
-[Project Euler #119](https://github.com/amit11794/hackerrank-euler/blob/master/problem/119.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/119.cpp)| `c++` | `100.00` | 
-[Project Euler #120](https://github.com/amit11794/hackerrank-euler/blob/master/problem/120.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/120.cpp)| `c++` | `100.00` | 
-[Project Euler #121](https://github.com/amit11794/hackerrank-euler/blob/master/problem/121.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/121.cpp)| `c++` | `100.00` | 
-[Project Euler #122](https://github.com/amit11794/hackerrank-euler/blob/master/problem/122.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/122.cpp)| `c++` | `100.00` | 
+[Project Euler #116](https://github.com/amit11794/hackerrank-euler/blob/master/problem/116.pdf) | [Red, green or blue tiles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/116.cpp)| `c++` | `100.00` | 
+[Project Euler #117](https://github.com/amit11794/hackerrank-euler/blob/master/problem/117.pdf) | [Red, green, and blue tiles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/117.cpp)| `c++` | `100.00` | 
+[Project Euler #118](https://github.com/amit11794/hackerrank-euler/blob/master/problem/118.pdf) | [Pandigital prime sets](https://github.com/amit11794/hackerrank-euler/blob/master/solution/118.cpp)| `c++` | `100.00` | 
+[Project Euler #119](https://github.com/amit11794/hackerrank-euler/blob/master/problem/119.pdf) | [Digit power sum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/119.cpp)| `c++` | `100.00` | 
+[Project Euler #120](https://github.com/amit11794/hackerrank-euler/blob/master/problem/120.pdf) | [Square remainders](https://github.com/amit11794/hackerrank-euler/blob/master/solution/120.cpp)| `c++` | `26.67` | Wrong Answer
+[Project Euler #121](https://github.com/amit11794/hackerrank-euler/blob/master/problem/121.pdf) | [Disc game prize fund](https://github.com/amit11794/hackerrank-euler/blob/master/solution/121.py)| `python` | `100.00` | 
+[Project Euler #122](https://github.com/amit11794/hackerrank-euler/blob/master/problem/122.pdf) | [Efficient exponentiation](https://github.com/amit11794/hackerrank-euler/blob/master/solution/122.cpp)| `c++` | `100.00` | 
 [Project Euler #123](https://github.com/amit11794/hackerrank-euler/blob/master/problem/123.pdf) | Prime square remainders | | | Unsolved
-[Project Euler #124](https://github.com/amit11794/hackerrank-euler/blob/master/problem/124.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/124.cpp)| `c++` | `100.00` | 
-[Project Euler #125](https://github.com/amit11794/hackerrank-euler/blob/master/problem/125.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/125.cpp)| `c++` | `100.00` | 
+[Project Euler #124](https://github.com/amit11794/hackerrank-euler/blob/master/problem/124.pdf) | [Ordered radicals](https://github.com/amit11794/hackerrank-euler/blob/master/solution/124.cpp)| `c++` | `30.0` | Terminated due to timeout
+[Project Euler #125](https://github.com/amit11794/hackerrank-euler/blob/master/problem/125.pdf) | [Palindromic sums](https://github.com/amit11794/hackerrank-euler/blob/master/solution/125.java)| `java` | `100.00` | 
 [Project Euler #126](https://github.com/amit11794/hackerrank-euler/blob/master/problem/126.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/126.cpp)| `c++` | `100.00` | 
 [Project Euler #127](https://github.com/amit11794/hackerrank-euler/blob/master/problem/127.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/127.cpp)| `c++` | `100.00` | 
 [Project Euler #128](https://github.com/amit11794/hackerrank-euler/blob/master/problem/128.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/128.cpp)| `c++` | `100.00` | 
