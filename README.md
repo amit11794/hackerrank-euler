@@ -1,3 +1,20 @@
+## [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
+
+#### [My Profile - amit11794 👨🏻‍💻](https://www.hackerrank.com/amit11794)
+
+### Leaderboard
+- As of 1st July 2021
+
+[Top 5, India 😎🤘](https://www.hackerrank.com/contests/projecteuler/leaderboard?filter=India&filter_on=country&page=1)
+
+![Leaderboard-India](https://github.com/amit11794/hackerrank-euler/blob/master/resources/Leaderboard-India.png)
+
+[29th, Universe 🤣](https://www.hackerrank.com/contests/projecteuler/leaderboard)
+
+![Leaderboard-World](https://github.com/amit11794/hackerrank-euler/blob/master/resources/Leaderboard-World.png)
+
+Many problems are yet to solve, hoping to jump higher 😜...
+
 Problem | Solution | Language | Result | Comments
 --- | --- | --- | --- | ---
 [Project Euler #1](https://github.com/amit11794/hackerrank-euler/blob/master/problem/1.pdf) | [Multiples of 3 and 5](https://github.com/amit11794/hackerrank-euler/blob/master/solution/1.java) | `java` | `100.00` | 
@@ -254,3 +271,12 @@ Problem | Solution | Language | Result | Comments
 [Project Euler #252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/252.cpp)| `c++` | `100.00` | 
 [Project Euler #253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/253.cpp)| `c++` | `100.00` | 
 [Project Euler #254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/254.cpp)| `c++` | `100.00` | 
+
+
+I have used multiple sources to take help for some of the questions. Thanks everyone, cheers 🍻🥂 !!! And I would love to give credit to the actual owners. 
+Please let me know, if you feel like it resembles to your work, I might have referred somewhere, I will mention your name with 💯 respect 🙌 and love 💓. 
+
+Credits:
+- My own work 🤟 !!!
+- https://github.com/nayuki/Project-Euler-solutions
+- https://github.com/stbrumme/euler
