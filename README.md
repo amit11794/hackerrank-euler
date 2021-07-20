@@ -166,32 +166,32 @@ Problem | Solution | Language | Result | Comments
 [P#147](https://github.com/amit11794/hackerrank-euler/blob/master/problem/147.pdf) | [Rectangles in cross-hatched grids](https://github.com/amit11794/hackerrank-euler/blob/master/solution/147.cpp)| `c++` | `25.00` | Terminated due to timeout
 [P#148](https://github.com/amit11794/hackerrank-euler/blob/master/problem/148.pdf) | Exploring Pascal's triangle. | | | Unsolved  
 [P#149](https://github.com/amit11794/hackerrank-euler/blob/master/problem/149.pdf) | Searching for a maximum-sum subsequence. | | | Unsolved 
-[#150](https://github.com/amit11794/hackerrank-euler/blob/master/problem/150.pdf) | [Searching a triangular array for a sub-triangle having minimum-sum.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/150.cpp)| `c++` | `100.00` | 
-[#151](https://github.com/amit11794/hackerrank-euler/blob/master/problem/151.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/151.cpp)| `c++` | `100.00` | 
-[#152](https://github.com/amit11794/hackerrank-euler/blob/master/problem/152.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/152.cpp)| `c++` | `100.00` | 
-[#153](https://github.com/amit11794/hackerrank-euler/blob/master/problem/153.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/153.cpp)| `c++` | `100.00` | 
-[#154](https://github.com/amit11794/hackerrank-euler/blob/master/problem/154.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/154.cpp)| `c++` | `100.00` | 
-[#155](https://github.com/amit11794/hackerrank-euler/blob/master/problem/155.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/155.cpp)| `c++` | `100.00` | 
-[#156](https://github.com/amit11794/hackerrank-euler/blob/master/problem/156.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/156.cpp)| `c++` | `100.00` | 
-[#157](https://github.com/amit11794/hackerrank-euler/blob/master/problem/157.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/157.cpp)| `c++` | `100.00` | 
-[#158](https://github.com/amit11794/hackerrank-euler/blob/master/problem/158.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/158.cpp)| `c++` | `100.00` | 
-[#159](https://github.com/amit11794/hackerrank-euler/blob/master/problem/159.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/159.cpp)| `c++` | `100.00` | 
-[#160](https://github.com/amit11794/hackerrank-euler/blob/master/problem/160.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/160.cpp)| `c++` | `100.00` | 
-[#161](https://github.com/amit11794/hackerrank-euler/blob/master/problem/161.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/161.cpp)| `c++` | `100.00` | 
-[#162](https://github.com/amit11794/hackerrank-euler/blob/master/problem/162.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/162.cpp)| `c++` | `100.00` | 
-[#163](https://github.com/amit11794/hackerrank-euler/blob/master/problem/163.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/163.cpp)| `c++` | `100.00` | 
-[#164](https://github.com/amit11794/hackerrank-euler/blob/master/problem/164.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/164.cpp)| `c++` | `100.00` | 
-[#165](https://github.com/amit11794/hackerrank-euler/blob/master/problem/165.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/165.cpp)| `c++` | `100.00` | 
-[#166](https://github.com/amit11794/hackerrank-euler/blob/master/problem/166.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/166.cpp)| `c++` | `100.00` | 
-[#167](https://github.com/amit11794/hackerrank-euler/blob/master/problem/167.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/167.cpp)| `c++` | `100.00` | 
-[#168](https://github.com/amit11794/hackerrank-euler/blob/master/problem/168.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/168.cpp)| `c++` | `100.00` | 
-[#169](https://github.com/amit11794/hackerrank-euler/blob/master/problem/169.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/169.cpp)| `c++` | `100.00` | 
-[#170](https://github.com/amit11794/hackerrank-euler/blob/master/problem/170.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/170.cpp)| `c++` | `100.00` | 
-[#171](https://github.com/amit11794/hackerrank-euler/blob/master/problem/171.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/171.cpp)| `c++` | `100.00` | 
-[#172](https://github.com/amit11794/hackerrank-euler/blob/master/problem/172.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/172.cpp)| `c++` | `100.00` | 
-[#173](https://github.com/amit11794/hackerrank-euler/blob/master/problem/173.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/173.cpp)| `c++` | `100.00` | 
-[#174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/174.cpp)| `c++` | `100.00` | 
-[#175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/175.cpp)| `c++` | `100.00` | 
+[P#150](https://github.com/amit11794/hackerrank-euler/blob/master/problem/150.pdf) | [Searching a triangular array for a sub-triangle having minimum-sum.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/150.cpp)| `c++` | `100.00` | 
+[P#151](https://github.com/amit11794/hackerrank-euler/blob/master/problem/151.pdf) | Paper sheets of standard sizes: an expected-value problem. | | | Unsolved
+[P#152](https://github.com/amit11794/hackerrank-euler/blob/master/problem/152.pdf) | [Writing 1/2 as a sum of inverse squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/152.cpp)| `c++` | `30.00` | Wrong Answer
+[P#153](https://github.com/amit11794/hackerrank-euler/blob/master/problem/153.pdf) | Investigating Gaussian Integers | | | Unsolved
+[P#154](https://github.com/amit11794/hackerrank-euler/blob/master/problem/154.pdf) | [Exploring Pascal's pyramid.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/154.cpp)| `c++` | `45.00` | Terminated due to timeout
+[P#155](https://github.com/amit11794/hackerrank-euler/blob/master/problem/155.pdf) | [Counting Capacitor Circuits.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/155.cpp)| `c++` | `94.12` | Terminated due to timeout
+[#156](https://github.com/amit11794/hackerrank-euler/blob/master/problem/156.pdf) | [Counting Digits](https://github.com/amit11794/hackerrank-euler/blob/master/solution/156.cpp)| `c++` | `100.00` | 
+[P#157](https://github.com/amit11794/hackerrank-euler/blob/master/problem/157.pdf) | Solving the diophantine equation 1/a +1/b = p/10^n | | | Unsolved
+[P#158](https://github.com/amit11794/hackerrank-euler/blob/master/problem/158.pdf) | Exploring strings | | | Unsolved
+[#159](https://github.com/amit11794/hackerrank-euler/blob/master/problem/159.pdf) | [Digital root sums of factorisations.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/159.cpp)| `c++` | `100.00` | 
+[P#160](https://github.com/amit11794/hackerrank-euler/blob/master/problem/160.pdf) | Factorial trailing digits | | | Unsolved
+[#161](https://github.com/amit11794/hackerrank-euler/blob/master/problem/161.pdf) | [Triominoes](https://github.com/amit11794/hackerrank-euler/blob/master/solution/161.cpp)| `c++` | `100.00` | 
+[#162](https://github.com/amit11794/hackerrank-euler/blob/master/problem/162.pdf) | [Hexadecimal numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/162.cpp)| `c++` | `100.00` | 
+[#163](https://github.com/amit11794/hackerrank-euler/blob/master/problem/163.pdf) | [Cross-hatched triangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/163.cpp)| `c++` | `100.00` | 
+[#164](https://github.com/amit11794/hackerrank-euler/blob/master/problem/164.pdf) | [Numbers for which no three consecutive digits have a sum greater than a given value.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/164.cpp)| `c++` | `100.00` | 
+[#165](https://github.com/amit11794/hackerrank-euler/blob/master/problem/165.pdf) | [Intersections](https://github.com/amit11794/hackerrank-euler/blob/master/solution/165.cpp)| `c++` | `100.00` | 
+[#166](https://github.com/amit11794/hackerrank-euler/blob/master/problem/166.pdf) | [Criss Cross](https://github.com/amit11794/hackerrank-euler/blob/master/solution/166.cpp)| `c++` | `100.00` | 
+[P#167](https://github.com/amit11794/hackerrank-euler/blob/master/problem/167.pdf) | Investigating Ulam sequences | | | Unsolved
+[#168](https://github.com/amit11794/hackerrank-euler/blob/master/problem/168.pdf) | [Number Rotations](https://github.com/amit11794/hackerrank-euler/blob/master/solution/168.cpp)| `c++` | `100.00` | 
+[#169](https://github.com/amit11794/hackerrank-euler/blob/master/problem/169.pdf) | [Exploring the number of different ways a number can be expressed as a sum of powers of 2.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/169.cpp)| `c++` | `100.00` | 
+[P#170](https://github.com/amit11794/hackerrank-euler/blob/master/problem/170.pdf) | [Find the largest 0 to 9 pandigital that can be formed by concatenating products.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/170.cpp)| `c++` | `5.00` | Wrong Answer
+[P#171](https://github.com/amit11794/hackerrank-euler/blob/master/problem/171.pdf) | [Finding numbers for which the sum of the squares of the digits is a square](https://github.com/amit11794/hackerrank-euler/blob/master/solution/171.cpp)| `c++` | `5.26` | Wrong Answer
+[P#172](https://github.com/amit11794/hackerrank-euler/blob/master/problem/172.pdf) | Investigating numbers with few repeated digits | | | Unsolved
+[#173](https://github.com/amit11794/hackerrank-euler/blob/master/problem/173.pdf) | [Using up to one million tiles how many different "hollow" square laminae can be formed?](https://github.com/amit11794/hackerrank-euler/blob/master/solution/173.cpp)| `c++` | `100.00` | 
+[P#174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements. | | | Unsolved
+[P#175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | Fractions involving the number of different ways a number can be expressed as a sum of powers of 2. | | | Unsolved
 [#176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/176.cpp)| `c++` | `100.00` | 
 [#177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/177.cpp)| `c++` | `100.00` | 
 [#178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/178.cpp)| `c++` | `100.00` | 
