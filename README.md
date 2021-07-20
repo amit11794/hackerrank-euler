@@ -217,60 +217,60 @@ Problem | Solution | Language | Result | Comments
 [P#198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | Ambiguous Numbers | | | Unsolved
 [P#199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | Iterative Circle Packing | | | Unsolved
 [#200](https://github.com/amit11794/hackerrank-euler/blob/master/problem/200.pdf) | [Find the 200th prime-proof sqube containing the contiguous sub-string "200"](https://github.com/amit11794/hackerrank-euler/blob/master/solution/200.cpp)| `c++` | `100.00` | 
-[P#201](https://github.com/amit11794/hackerrank-euler/blob/master/problem/201.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/201.cpp)| `c++` | `100.00` | 
-[P#202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/202.cpp)| `c++` | `100.00` | 
-[P#203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/203.cpp)| `c++` | `100.00` | 
-[P#204](https://github.com/amit11794/hackerrank-euler/blob/master/problem/204.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/204.cpp)| `c++` | `100.00` | 
-[P#205](https://github.com/amit11794/hackerrank-euler/blob/master/problem/205.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/205.cpp)| `c++` | `100.00` | 
-[P#206](https://github.com/amit11794/hackerrank-euler/blob/master/problem/206.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/206.cpp)| `c++` | `100.00` | 
-[P#207](https://github.com/amit11794/hackerrank-euler/blob/master/problem/207.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/207.cpp)| `c++` | `100.00` | 
-[P#208](https://github.com/amit11794/hackerrank-euler/blob/master/problem/208.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/208.cpp)| `c++` | `100.00` | 
-[P#209](https://github.com/amit11794/hackerrank-euler/blob/master/problem/209.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/209.cpp)| `c++` | `100.00` | 
-[P#210](https://github.com/amit11794/hackerrank-euler/blob/master/problem/210.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/210.cpp)| `c++` | `100.00` | 
-[P#211](https://github.com/amit11794/hackerrank-euler/blob/master/problem/211.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/211.cpp)| `c++` | `100.00` | 
-[P#212](https://github.com/amit11794/hackerrank-euler/blob/master/problem/212.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/212.cpp)| `c++` | `100.00` | 
-[P#213](https://github.com/amit11794/hackerrank-euler/blob/master/problem/213.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/213.cpp)| `c++` | `100.00` | 
-[P#214](https://github.com/amit11794/hackerrank-euler/blob/master/problem/214.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/214.cpp)| `c++` | `100.00` | 
-[P#215](https://github.com/amit11794/hackerrank-euler/blob/master/problem/215.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/215.cpp)| `c++` | `100.00` | 
-[P#216](https://github.com/amit11794/hackerrank-euler/blob/master/problem/216.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/216.cpp)| `c++` | `100.00` | 
-[P#217](https://github.com/amit11794/hackerrank-euler/blob/master/problem/217.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/217.cpp)| `c++` | `100.00` | 
-[P#218](https://github.com/amit11794/hackerrank-euler/blob/master/problem/218.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/218.cpp)| `c++` | `100.00` | 
-[P#219](https://github.com/amit11794/hackerrank-euler/blob/master/problem/219.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/219.cpp)| `c++` | `100.00` | 
-[P#220](https://github.com/amit11794/hackerrank-euler/blob/master/problem/220.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/220.cpp)| `c++` | `100.00` | 
-[P#221](https://github.com/amit11794/hackerrank-euler/blob/master/problem/221.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/221.cpp)| `c++` | `100.00` | 
-[P#222](https://github.com/amit11794/hackerrank-euler/blob/master/problem/222.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/222.cpp)| `c++` | `100.00` | 
-[P#223](https://github.com/amit11794/hackerrank-euler/blob/master/problem/223.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/223.cpp)| `c++` | `100.00` | 
-[P#224](https://github.com/amit11794/hackerrank-euler/blob/master/problem/224.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/224.cpp)| `c++` | `100.00` | 
-[P#225](https://github.com/amit11794/hackerrank-euler/blob/master/problem/225.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/225.cpp)| `c++` | `100.00` | 
-[P#226](https://github.com/amit11794/hackerrank-euler/blob/master/problem/226.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/226.cpp)| `c++` | `100.00` | 
-[P#227](https://github.com/amit11794/hackerrank-euler/blob/master/problem/227.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/227.cpp)| `c++` | `100.00` | 
-[P#228](https://github.com/amit11794/hackerrank-euler/blob/master/problem/228.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/228.cpp)| `c++` | `100.00` | 
-[P#229](https://github.com/amit11794/hackerrank-euler/blob/master/problem/229.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/229.cpp)| `c++` | `100.00` | 
-[P#230](https://github.com/amit11794/hackerrank-euler/blob/master/problem/230.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/230.cpp)| `c++` | `100.00` | 
-[P#231](https://github.com/amit11794/hackerrank-euler/blob/master/problem/231.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/231.cpp)| `c++` | `100.00` | 
-[P#232](https://github.com/amit11794/hackerrank-euler/blob/master/problem/232.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/232.cpp)| `c++` | `100.00` | 
-[P#233](https://github.com/amit11794/hackerrank-euler/blob/master/problem/233.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/233.cpp)| `c++` | `100.00` | 
-[P#234](https://github.com/amit11794/hackerrank-euler/blob/master/problem/234.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/234.cpp)| `c++` | `100.00` | 
-[P#235](https://github.com/amit11794/hackerrank-euler/blob/master/problem/235.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/235.cpp)| `c++` | `100.00` | 
-[P#236](https://github.com/amit11794/hackerrank-euler/blob/master/problem/236.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/236.cpp)| `c++` | `100.00` | 
-[P#237](https://github.com/amit11794/hackerrank-euler/blob/master/problem/237.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/237.cpp)| `c++` | `100.00` | 
-[P#238](https://github.com/amit11794/hackerrank-euler/blob/master/problem/238.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/238.cpp)| `c++` | `100.00` | 
-[P#239](https://github.com/amit11794/hackerrank-euler/blob/master/problem/239.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/239.cpp)| `c++` | `100.00` | 
-[P#240](https://github.com/amit11794/hackerrank-euler/blob/master/problem/240.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/240.cpp)| `c++` | `100.00` | 
-[P#241](https://github.com/amit11794/hackerrank-euler/blob/master/problem/241.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/241.cpp)| `c++` | `100.00` | 
-[P#242](https://github.com/amit11794/hackerrank-euler/blob/master/problem/242.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/242.cpp)| `c++` | `100.00` | 
-[P#243](https://github.com/amit11794/hackerrank-euler/blob/master/problem/243.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/243.cpp)| `c++` | `100.00` | 
-[P#244](https://github.com/amit11794/hackerrank-euler/blob/master/problem/244.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/244.cpp)| `c++` | `100.00` | 
-[P#245](https://github.com/amit11794/hackerrank-euler/blob/master/problem/245.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/245.cpp)| `c++` | `100.00` | 
-[P#246](https://github.com/amit11794/hackerrank-euler/blob/master/problem/246.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/246.cpp)| `c++` | `100.00` | 
-[P#247](https://github.com/amit11794/hackerrank-euler/blob/master/problem/247.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/247.cpp)| `c++` | `100.00` | 
-[P#248](https://github.com/amit11794/hackerrank-euler/blob/master/problem/248.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/248.cpp)| `c++` | `100.00` | 
-[P#249](https://github.com/amit11794/hackerrank-euler/blob/master/problem/249.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/249.cpp)| `c++` | `100.00` | 
-[P#250](https://github.com/amit11794/hackerrank-euler/blob/master/problem/250.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/250.cpp)| `c++` | `100.00` | 
-[P#251](https://github.com/amit11794/hackerrank-euler/blob/master/problem/251.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/251.cpp)| `c++` | `100.00` | 
-[P#252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/252.cpp)| `c++` | `100.00` | 
-[P#253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/253.cpp)| `c++` | `100.00` | 
-[P#254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/254.cpp)| `c++` | `100.00` | 
+[#201](https://github.com/amit11794/hackerrank-euler/blob/master/problem/201.pdf) | [Subsets with a unique sum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/201.cpp)| `c++` | `100.00` | 
+[P#202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | Laserbeam | | | Unsolved 
+[P#203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | Squarefree Binomial Coefficients | | | Unsolved 
+[P#204](https://github.com/amit11794/hackerrank-euler/blob/master/problem/204.pdf) | Generalised Hamming Numbers | | | Unsolved 
+[P#205](https://github.com/amit11794/hackerrank-euler/blob/master/problem/205.pdf) | Dice Game | | | Unsolved 
+[P#206](https://github.com/amit11794/hackerrank-euler/blob/master/problem/206.pdf) | Concealed Square | | | Unsolved 
+[#207](https://github.com/amit11794/hackerrank-euler/blob/master/problem/207.pdf) | [Integer partition equations](https://github.com/amit11794/hackerrank-euler/blob/master/solution/207.py)| `python` | `100.00` | 
+[P#208](https://github.com/amit11794/hackerrank-euler/blob/master/problem/208.pdf) | Robot Walks | | | Unsolved 
+[P#209](https://github.com/amit11794/hackerrank-euler/blob/master/problem/209.pdf) | Circular Logic | | | Unsolved 
+[P#210](https://github.com/amit11794/hackerrank-euler/blob/master/problem/210.pdf) | Obtuse Angled Triangles | | | Unsolved 
+[#211](https://github.com/amit11794/hackerrank-euler/blob/master/problem/211.pdf) | [Divisor Square Sum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/211.cpp)| `c++` | `100.00` | 
+[P#212](https://github.com/amit11794/hackerrank-euler/blob/master/problem/212.pdf) | Combined Volume of Cuboids | | | Unsolved 
+[P#213](https://github.com/amit11794/hackerrank-euler/blob/master/problem/213.pdf) | Flea Circus | | | Unsolved 
+[P#214](https://github.com/amit11794/hackerrank-euler/blob/master/problem/214.pdf) | Totient Chains | | | Unsolved 
+[P#215](https://github.com/amit11794/hackerrank-euler/blob/master/problem/215.pdf) | Crack-free Walls | | | Unsolved 
+[P#216](https://github.com/amit11794/hackerrank-euler/blob/master/problem/216.pdf) | Investigating the primality of numbers of the form 2n² - 1 | | | Unsolved 
+[P#217](https://github.com/amit11794/hackerrank-euler/blob/master/problem/217.pdf) | Balanced Numbers | | | Unsolved 
+[#218](https://github.com/amit11794/hackerrank-euler/blob/master/problem/218.pdf) | [Perfect right-angled triangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/218.cpp)| `c++` | `100.00` | 
+[P#219](https://github.com/amit11794/hackerrank-euler/blob/master/problem/219.pdf) | Skew-cost coding | | | Unsolved 
+[P#220](https://github.com/amit11794/hackerrank-euler/blob/master/problem/220.pdf) | Heighway Dragon | | | Unsolved 
+[P#221](https://github.com/amit11794/hackerrank-euler/blob/master/problem/221.pdf) | Alexandrian Integers | | | Unsolved 
+[P#222](https://github.com/amit11794/hackerrank-euler/blob/master/problem/222.pdf) | Sphere Packing | | | Unsolved 
+[P#223](https://github.com/amit11794/hackerrank-euler/blob/master/problem/223.pdf) | Almost right-angled triangles I | | | Unsolved 
+[P#224](https://github.com/amit11794/hackerrank-euler/blob/master/problem/224.pdf) | Almost right-angled triangles II | | | Unsolved 
+[P#225](https://github.com/amit11794/hackerrank-euler/blob/master/problem/225.pdf) | [Tribonacci non-divisors](https://github.com/amit11794/hackerrank-euler/blob/master/solution/225.c)| `c` | `60.00` | Terminated due to timeout
+[P#226](https://github.com/amit11794/hackerrank-euler/blob/master/problem/226.pdf) | A Scoop of Blancmange | | | Unsolved  
+[P#227](https://github.com/amit11794/hackerrank-euler/blob/master/problem/227.pdf) | The Chase | | | Unsolved  
+[P#228](https://github.com/amit11794/hackerrank-euler/blob/master/problem/228.pdf) | Minkowski Sums | | | Unsolved  
+[P#229](https://github.com/amit11794/hackerrank-euler/blob/master/problem/229.pdf) | [Four Representations using Squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/229.java)| `java` | `6.67` | Terminated due to timeout
+[#230](https://github.com/amit11794/hackerrank-euler/blob/master/problem/230.pdf) | [Fibonacci Words](https://github.com/amit11794/hackerrank-euler/blob/master/solution/230.py)| `python` | `100.00` | 
+[P#231](https://github.com/amit11794/hackerrank-euler/blob/master/problem/231.pdf) | The prime factorisation of binomial coefficients | | | Unsolved  
+[P#232](https://github.com/amit11794/hackerrank-euler/blob/master/problem/232.pdf) | The Race | | | Unsolved  
+[P#233](https://github.com/amit11794/hackerrank-euler/blob/master/problem/233.pdf) | Lattice points on a circle | | | Unsolved  
+[P#234](https://github.com/amit11794/hackerrank-euler/blob/master/problem/234.pdf) | Semidivisible numbers | | | Unsolved  
+[P#235](https://github.com/amit11794/hackerrank-euler/blob/master/problem/235.pdf) | An Arithmetic Geometric sequence | | | Unsolved  
+[P#236](https://github.com/amit11794/hackerrank-euler/blob/master/problem/236.pdf) | Luxury Hampers | | | Unsolved  
+[P#237](https://github.com/amit11794/hackerrank-euler/blob/master/problem/237.pdf) | Tours on a 4 x n playing board | | | Unsolved  
+[P#238](https://github.com/amit11794/hackerrank-euler/blob/master/problem/238.pdf) | Infinite string tour | | | Unsolved  
+[P#239](https://github.com/amit11794/hackerrank-euler/blob/master/problem/239.pdf) | Twenty-two Foolish Primes | | | Unsolved  
+[P#240](https://github.com/amit11794/hackerrank-euler/blob/master/problem/240.pdf) | [Top Dice](https://github.com/amit11794/hackerrank-euler/blob/master/solution/240.cpp)| `c++` | `2.00` | Terminated due to timeout
+[P#241](https://github.com/amit11794/hackerrank-euler/blob/master/problem/241.pdf) | Perfection Quotients | | | Unsolved  
+[P#242](https://github.com/amit11794/hackerrank-euler/blob/master/problem/242.pdf) | Odd Triplets | | | Unsolved  
+[P#243](https://github.com/amit11794/hackerrank-euler/blob/master/problem/243.pdf) | Resilience | | | Unsolved  
+[P#244](https://github.com/amit11794/hackerrank-euler/blob/master/problem/244.pdf) | [Sliders](https://github.com/amit11794/hackerrank-euler/blob/master/solution/244.py)| `python` | `77.78` | Terminated due to timeout
+[P#245](https://github.com/amit11794/hackerrank-euler/blob/master/problem/245.pdf) | Coresilience | | | Unsolved  
+[P#246](https://github.com/amit11794/hackerrank-euler/blob/master/problem/246.pdf) | Tangents to an ellipse | | | Unsolved  
+[P#247](https://github.com/amit11794/hackerrank-euler/blob/master/problem/247.pdf) | Squares under a hyperbola | | | Unsolved  
+[P#248](https://github.com/amit11794/hackerrank-euler/blob/master/problem/248.pdf) | Numbers for which Euler’s totient function equals 13! | | | Unsolved  
+[P#249](https://github.com/amit11794/hackerrank-euler/blob/master/problem/249.pdf) | Prime Subset Sums | | | Unsolved  
+[P#250](https://github.com/amit11794/hackerrank-euler/blob/master/problem/250.pdf) | 250250 | | | Unsolved  
+[P#251](https://github.com/amit11794/hackerrank-euler/blob/master/problem/251.pdf) | Cardano Triplets | | | Unsolved  
+[P#252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | Convex Holes | | | Unsolved  
+[P#253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | Tidying up | | | Unsolved  
+[P#254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | Sums of Digit Factorials | | | Unsolved  
 
 
 I have used multiple sources to take help for some of the questions. Thanks everyone, cheers 🍻🥂 !!! And I would love to give credit to the actual owners. 
