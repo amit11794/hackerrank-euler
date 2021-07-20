@@ -192,31 +192,31 @@ Problem | Solution | Language | Result | Comments
 [#173](https://github.com/amit11794/hackerrank-euler/blob/master/problem/173.pdf) | [Using up to one million tiles how many different "hollow" square laminae can be formed?](https://github.com/amit11794/hackerrank-euler/blob/master/solution/173.cpp)| `c++` | `100.00` | 
 [P#174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements. | | | Unsolved
 [P#175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | Fractions involving the number of different ways a number can be expressed as a sum of powers of 2. | | | Unsolved
-[#176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/176.cpp)| `c++` | `100.00` | 
-[#177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/177.cpp)| `c++` | `100.00` | 
-[#178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/178.cpp)| `c++` | `100.00` | 
-[#179](https://github.com/amit11794/hackerrank-euler/blob/master/problem/179.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/179.cpp)| `c++` | `100.00` | 
-[#180](https://github.com/amit11794/hackerrank-euler/blob/master/problem/180.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/180.cpp)| `c++` | `100.00` | 
-[#181](https://github.com/amit11794/hackerrank-euler/blob/master/problem/181.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/181.cpp)| `c++` | `100.00` | 
-[#182](https://github.com/amit11794/hackerrank-euler/blob/master/problem/182.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/182.cpp)| `c++` | `100.00` | 
-[#183](https://github.com/amit11794/hackerrank-euler/blob/master/problem/183.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/183.cpp)| `c++` | `100.00` | 
-[#184](https://github.com/amit11794/hackerrank-euler/blob/master/problem/184.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/184.cpp)| `c++` | `100.00` | 
-[#185](https://github.com/amit11794/hackerrank-euler/blob/master/problem/185.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/185.cpp)| `c++` | `100.00` | 
-[#186](https://github.com/amit11794/hackerrank-euler/blob/master/problem/186.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/186.cpp)| `c++` | `100.00` | 
-[#187](https://github.com/amit11794/hackerrank-euler/blob/master/problem/187.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/187.cpp)| `c++` | `100.00` | 
-[#188](https://github.com/amit11794/hackerrank-euler/blob/master/problem/188.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/188.cpp)| `c++` | `100.00` | 
-[#189](https://github.com/amit11794/hackerrank-euler/blob/master/problem/189.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/189.cpp)| `c++` | `100.00` | 
-[#190](https://github.com/amit11794/hackerrank-euler/blob/master/problem/190.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/190.cpp)| `c++` | `100.00` | 
-[#191](https://github.com/amit11794/hackerrank-euler/blob/master/problem/191.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/191.cpp)| `c++` | `100.00` | 
-[#192](https://github.com/amit11794/hackerrank-euler/blob/master/problem/192.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/192.cpp)| `c++` | `100.00` | 
-[#193](https://github.com/amit11794/hackerrank-euler/blob/master/problem/193.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/193.cpp)| `c++` | `100.00` | 
-[#194](https://github.com/amit11794/hackerrank-euler/blob/master/problem/194.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/194.cpp)| `c++` | `100.00` | 
-[#195](https://github.com/amit11794/hackerrank-euler/blob/master/problem/195.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/195.cpp)| `c++` | `100.00` | 
-[#196](https://github.com/amit11794/hackerrank-euler/blob/master/problem/196.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/196.cpp)| `c++` | `100.00` | 
-[#197](https://github.com/amit11794/hackerrank-euler/blob/master/problem/197.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/197.cpp)| `c++` | `100.00` | 
-[#198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/198.cpp)| `c++` | `100.00` | 
-[#199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/199.cpp)| `c++` | `100.00` | 
-[#200](https://github.com/amit11794/hackerrank-euler/blob/master/problem/200.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/200.cpp)| `c++` | `100.00` | 
+[P#176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | Rectangular triangles that share a cathetus. | | | Unsolved
+[P#177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | Integer angled Quadrilaterals. | | | Unsolved
+[P#178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | Step Numbers | | | Unsolved
+[P#179](https://github.com/amit11794/hackerrank-euler/blob/master/problem/179.pdf) | Consecutive positive divisors | | | Unsolved
+[P#180](https://github.com/amit11794/hackerrank-euler/blob/master/problem/180.pdf) | Rational zeros of a function of three variables. | | | Unsolved
+[P#181](https://github.com/amit11794/hackerrank-euler/blob/master/problem/181.pdf) | Investigating in how many ways objects of two different colours can be grouped. | | | Unsolved
+[P#182](https://github.com/amit11794/hackerrank-euler/blob/master/problem/182.pdf) | RSA encryption | | | Unsolved
+[P#183](https://github.com/amit11794/hackerrank-euler/blob/master/problem/183.pdf) | [Maximum product of parts](https://github.com/amit11794/hackerrank-euler/blob/master/solution/183.cpp)| `c++` | `100.00` | 
+[P#184](https://github.com/amit11794/hackerrank-euler/blob/master/problem/184.pdf) | Triangles containing the origin. | | | Unsolved
+[P#185](https://github.com/amit11794/hackerrank-euler/blob/master/problem/185.pdf) | [Number Mind](https://github.com/amit11794/hackerrank-euler/blob/master/solution/185.py)| `python` | `100.00` | 
+[P#186](https://github.com/amit11794/hackerrank-euler/blob/master/problem/186.pdf) | [Connectedness of a network.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/186.cpp)| `c++` | `100.00` | 
+[P#187](https://github.com/amit11794/hackerrank-euler/blob/master/problem/187.pdf) | [Semiprimes](https://github.com/amit11794/hackerrank-euler/blob/master/solution/187.cpp)| `c++` | `100.00` | 
+[P#188](https://github.com/amit11794/hackerrank-euler/blob/master/problem/188.pdf) | The hyperexponentiation of a number | | | Unsolved
+[P#189](https://github.com/amit11794/hackerrank-euler/blob/master/problem/189.pdf) | Tri-colouring a triangular grid | | | Unsolved
+[P#190](https://github.com/amit11794/hackerrank-euler/blob/master/problem/190.pdf) | Maximising a weighted product | | | Unsolved
+[P#191](https://github.com/amit11794/hackerrank-euler/blob/master/problem/191.pdf) | Prize Strings | | | Unsolved
+[P#192](https://github.com/amit11794/hackerrank-euler/blob/master/problem/192.pdf) | Best Approximations | | | Unsolved
+[P#193](https://github.com/amit11794/hackerrank-euler/blob/master/problem/193.pdf) | Squarefree Numbers | | | Unsolved
+[P#194](https://github.com/amit11794/hackerrank-euler/blob/master/problem/194.pdf) | Coloured Configurations | | | Unsolved
+[P#195](https://github.com/amit11794/hackerrank-euler/blob/master/problem/195.pdf) | Inscribed circles of triangles with one angle of 60 degrees | | | Unsolved
+[P#196](https://github.com/amit11794/hackerrank-euler/blob/master/problem/196.pdf) | [Prime triplets](https://github.com/amit11794/hackerrank-euler/blob/master/solution/196.cpp)| `c++` | `94.74` | Segmentation Fault
+[P#197](https://github.com/amit11794/hackerrank-euler/blob/master/problem/197.pdf) | [Investigating the behaviour of a recursively defined sequence](https://github.com/amit11794/hackerrank-euler/blob/master/solution/197.py)| `python` | `100.00` | 
+[P#198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | Ambiguous Numbers | | | Unsolved
+[P#199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | Iterative Circle Packing | | | Unsolved
+[P#200](https://github.com/amit11794/hackerrank-euler/blob/master/problem/200.pdf) | [Find the 200th prime-proof sqube containing the contiguous sub-string "200"](https://github.com/amit11794/hackerrank-euler/blob/master/solution/200.cpp)| `c++` | `100.00` | 
 [#201](https://github.com/amit11794/hackerrank-euler/blob/master/problem/201.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/201.cpp)| `c++` | `100.00` | 
 [#202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/202.cpp)| `c++` | `100.00` | 
 [#203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | [_](https://github.com/amit11794/hackerrank-euler/blob/master/solution/203.cpp)| `c++` | `100.00` | 
