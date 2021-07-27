@@ -100,13 +100,13 @@ Problem | Solution | Language | Result | Comments
 [#81](https://github.com/amit11794/hackerrank-euler/blob/master/problem/81.pdf) | [Path sum: two ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/81.cpp)| `c++` | `100.00` | 
 [#82](https://github.com/amit11794/hackerrank-euler/blob/master/problem/82.pdf) | [Path sum: three ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/82.cpp)| `c++` | `100.00` | 
 [#83](https://github.com/amit11794/hackerrank-euler/blob/master/problem/83.pdf) | [Path sum: four ways](https://github.com/amit11794/hackerrank-euler/blob/master/solution/83.cpp)| `c++` | `100.00` | 
-[P#84](https://github.com/amit11794/hackerrank-euler/blob/master/problem/84.pdf) | [Monopoly odds](https://github.com/amit11794/hackerrank-euler/blob/master/solution/84.cpp)| `c++` | `10.00` | Wrong Answer
+[P#84](https://github.com/amit11794/hackerrank-euler/blob/master/problem/84.pdf) | [Monopoly odds](https://github.com/amit11794/hackerrank-euler/blob/master/solution/84.cpp)| `c++` | `10.00` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler084/problem)
 [#85](https://github.com/amit11794/hackerrank-euler/blob/master/problem/85.pdf) | [Counting rectangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/85.cpp)| `c++` | `100.00` | 
 [#86](https://github.com/amit11794/hackerrank-euler/blob/master/problem/86.pdf) | [Cuboid route](https://github.com/amit11794/hackerrank-euler/blob/master/solution/86.java)| `java` | `100.00` | 
 [#87](https://github.com/amit11794/hackerrank-euler/blob/master/problem/87.pdf) | [Prime power triples](https://github.com/amit11794/hackerrank-euler/blob/master/solution/87.cpp)| `c++` | `100.00` | 
 [#88](https://github.com/amit11794/hackerrank-euler/blob/master/problem/88.pdf) | [Product-sum numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/88.cpp)| `c++` | `100.00` | 
 [#89](https://github.com/amit11794/hackerrank-euler/blob/master/problem/89.pdf) | [Roman numerals](https://github.com/amit11794/hackerrank-euler/blob/master/solution/89.py)| `python` | `100.00` | 
-[P#90](https://github.com/amit11794/hackerrank-euler/blob/master/problem/90.pdf) | [Cube digit pairs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/90.cpp)| `c++` | `67.50` | Terminated due to timeout
+[P#90](https://github.com/amit11794/hackerrank-euler/blob/master/problem/90.pdf) | [Cube digit pairs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/90.cpp)| `c++` | `67.50` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler090/problem)
 [#91](https://github.com/amit11794/hackerrank-euler/blob/master/problem/91.pdf) | [Right triangles with integer coordinates](https://github.com/amit11794/hackerrank-euler/blob/master/solution/91.cpp)| `c++` | `100.00` | 
 [#92](https://github.com/amit11794/hackerrank-euler/blob/master/problem/92.pdf) | [Square digit chains](https://github.com/amit11794/hackerrank-euler/blob/master/solution/92.cpp)| `c++` | `100.00` | 
 [#93](https://github.com/amit11794/hackerrank-euler/blob/master/problem/93.pdf) | [Arithmetic expressions](https://github.com/amit11794/hackerrank-euler/blob/master/solution/93.java)| `java` | `100.00` | 
@@ -116,161 +116,161 @@ Problem | Solution | Language | Result | Comments
 [#97](https://github.com/amit11794/hackerrank-euler/blob/master/problem/97.pdf) | [Large non-Mersenne prime](https://github.com/amit11794/hackerrank-euler/blob/master/solution/97.cpp)| `c++` | `100.00` | 
 [#98](https://github.com/amit11794/hackerrank-euler/blob/master/problem/98.pdf) | [Anagramic squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/98.cpp)| `c++` | `100.00` | 
 [#99](https://github.com/amit11794/hackerrank-euler/blob/master/problem/99.pdf) | [Largest exponential](https://github.com/amit11794/hackerrank-euler/blob/master/solution/99.java)| `java` | `100.00` | 
-[P#100](https://github.com/amit11794/hackerrank-euler/blob/master/problem/100.pdf) | [Arranged probability](https://github.com/amit11794/hackerrank-euler/blob/master/solution/100.cpp)| `c++` | `22.22` | Wrong Answer
-[P#101](https://github.com/amit11794/hackerrank-euler/blob/master/problem/101.pdf) | Optimum polynomial | | | Unsolved
+[P#100](https://github.com/amit11794/hackerrank-euler/blob/master/problem/100.pdf) | [Arranged probability](https://github.com/amit11794/hackerrank-euler/blob/master/solution/100.cpp)| `c++` | `22.22` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler100/problem)
+[P#101](https://github.com/amit11794/hackerrank-euler/blob/master/problem/101.pdf) | Optimum polynomial | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler101/problem)
 [#102](https://github.com/amit11794/hackerrank-euler/blob/master/problem/102.pdf) | [Triangle containment](https://github.com/amit11794/hackerrank-euler/blob/master/solution/102.cpp)| `c++` | `100.00` | 
 [#103](https://github.com/amit11794/hackerrank-euler/blob/master/problem/103.pdf) | [Special subset sums: optimum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/103.cpp)| `c++` | `100.00` | 
 [#104](https://github.com/amit11794/hackerrank-euler/blob/master/problem/104.pdf) | [Pandigital Fibonacci ends](https://github.com/amit11794/hackerrank-euler/blob/master/solution/104.cpp)| `c++` | `100.00` | 
 [#105](https://github.com/amit11794/hackerrank-euler/blob/master/problem/105.pdf) | [Special subset sums: testing](https://github.com/amit11794/hackerrank-euler/blob/master/solution/105.cpp)| `c++` | `100.00` | 
-[P#106](https://github.com/amit11794/hackerrank-euler/blob/master/problem/106.pdf) | Special subset sums: meta-testing | | | Unsolved
+[P#106](https://github.com/amit11794/hackerrank-euler/blob/master/problem/106.pdf) | Special subset sums: meta-testing | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler106/problem)
 [#107](https://github.com/amit11794/hackerrank-euler/blob/master/problem/107.pdf) | [Minimal network](https://github.com/amit11794/hackerrank-euler/blob/master/solution/107.cpp)| `c++` | `100.00` | 
-[P#108](https://github.com/amit11794/hackerrank-euler/blob/master/problem/108.pdf) | [Diophantine reciprocals I](https://github.com/amit11794/hackerrank-euler/blob/master/solution/108.cpp)| `c++` | `36.36` | Terminated due to timeout
-[P#109](https://github.com/amit11794/hackerrank-euler/blob/master/problem/109.pdf) | Darts | | | Unsolved
-[P#110](https://github.com/amit11794/hackerrank-euler/blob/master/problem/110.pdf) | [Diophantine reciprocals II](https://github.com/amit11794/hackerrank-euler/blob/master/solution/110.cpp)| `c++` | `50.0` | Wrong Answer
+[P#108](https://github.com/amit11794/hackerrank-euler/blob/master/problem/108.pdf) | [Diophantine reciprocals I](https://github.com/amit11794/hackerrank-euler/blob/master/solution/108.cpp)| `c++` | `36.36` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler108/problem)
+[P#109](https://github.com/amit11794/hackerrank-euler/blob/master/problem/109.pdf) | Darts | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler109/problem)
+[P#110](https://github.com/amit11794/hackerrank-euler/blob/master/problem/110.pdf) | [Diophantine reciprocals II](https://github.com/amit11794/hackerrank-euler/blob/master/solution/110.cpp)| `c++` | `50.0` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler110/problem)
 [#111](https://github.com/amit11794/hackerrank-euler/blob/master/problem/111.pdf) | [Primes with runs](https://github.com/amit11794/hackerrank-euler/blob/master/solution/111.py)| `python` | `100.00` | 
-[P#112](https://github.com/amit11794/hackerrank-euler/blob/master/problem/112.pdf) | Bouncy numbers | | | Unsolved
+[P#112](https://github.com/amit11794/hackerrank-euler/blob/master/problem/112.pdf) | Bouncy numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler112/problem)
 [#113](https://github.com/amit11794/hackerrank-euler/blob/master/problem/113.pdf) | [Non-bouncy numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/113.cpp)| `c++` | `100.00` | 
 [#114](https://github.com/amit11794/hackerrank-euler/blob/master/problem/114.pdf) | [Counting block combinations I](https://github.com/amit11794/hackerrank-euler/blob/master/solution/114.cpp)| `c++` | `100.00` | 
-[P#115](https://github.com/amit11794/hackerrank-euler/blob/master/problem/115.pdf) | Counting block combinations II | | | Unsolved
+[P#115](https://github.com/amit11794/hackerrank-euler/blob/master/problem/115.pdf) | Counting block combinations II | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler115/problem)
 [#116](https://github.com/amit11794/hackerrank-euler/blob/master/problem/116.pdf) | [Red, green or blue tiles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/116.cpp)| `c++` | `100.00` | 
 [#117](https://github.com/amit11794/hackerrank-euler/blob/master/problem/117.pdf) | [Red, green, and blue tiles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/117.cpp)| `c++` | `100.00` | 
 [#118](https://github.com/amit11794/hackerrank-euler/blob/master/problem/118.pdf) | [Pandigital prime sets](https://github.com/amit11794/hackerrank-euler/blob/master/solution/118.cpp)| `c++` | `100.00` | 
 [#119](https://github.com/amit11794/hackerrank-euler/blob/master/problem/119.pdf) | [Digit power sum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/119.cpp)| `c++` | `100.00` | 
-[P#120](https://github.com/amit11794/hackerrank-euler/blob/master/problem/120.pdf) | [Square remainders](https://github.com/amit11794/hackerrank-euler/blob/master/solution/120.cpp)| `c++` | `26.67` | Wrong Answer
+[P#120](https://github.com/amit11794/hackerrank-euler/blob/master/problem/120.pdf) | [Square remainders](https://github.com/amit11794/hackerrank-euler/blob/master/solution/120.cpp)| `c++` | `26.67` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler120/problem)
 [#121](https://github.com/amit11794/hackerrank-euler/blob/master/problem/121.pdf) | [Disc game prize fund](https://github.com/amit11794/hackerrank-euler/blob/master/solution/121.py)| `python` | `100.00` | 
 [#122](https://github.com/amit11794/hackerrank-euler/blob/master/problem/122.pdf) | [Efficient exponentiation](https://github.com/amit11794/hackerrank-euler/blob/master/solution/122.cpp)| `c++` | `100.00` | 
-[P#123](https://github.com/amit11794/hackerrank-euler/blob/master/problem/123.pdf) | Prime square remainders | | | Unsolved
-[P#124](https://github.com/amit11794/hackerrank-euler/blob/master/problem/124.pdf) | [Ordered radicals](https://github.com/amit11794/hackerrank-euler/blob/master/solution/124.cpp)| `c++` | `30.0` | Terminated due to timeout
+[P#123](https://github.com/amit11794/hackerrank-euler/blob/master/problem/123.pdf) | Prime square remainders | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler123/problem)
+[P#124](https://github.com/amit11794/hackerrank-euler/blob/master/problem/124.pdf) | [Ordered radicals](https://github.com/amit11794/hackerrank-euler/blob/master/solution/124.cpp)| `c++` | `30.0` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler124/problem)
 [#125](https://github.com/amit11794/hackerrank-euler/blob/master/problem/125.pdf) | [Palindromic sums](https://github.com/amit11794/hackerrank-euler/blob/master/solution/125.java)| `java` | `100.00` | 
-[P#126](https://github.com/amit11794/hackerrank-euler/blob/master/problem/126.pdf) | Cuboid layers | | | Unsolved
-[P#127](https://github.com/amit11794/hackerrank-euler/blob/master/problem/127.pdf) | abc-hits | | | Unsolved
+[P#126](https://github.com/amit11794/hackerrank-euler/blob/master/problem/126.pdf) | Cuboid layers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler126/problem)
+[P#127](https://github.com/amit11794/hackerrank-euler/blob/master/problem/127.pdf) | abc-hits | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler127/problem)
 [#128](https://github.com/amit11794/hackerrank-euler/blob/master/problem/128.pdf) | [Hexagonal tile differences](https://github.com/amit11794/hackerrank-euler/blob/master/solution/128.cpp)| `c++` | `100.00` | 
-[P#129](https://github.com/amit11794/hackerrank-euler/blob/master/problem/129.pdf) | Repunit divisibility | | | Unsolved
-[P#130](https://github.com/amit11794/hackerrank-euler/blob/master/problem/130.pdf) | [Composites with prime repunit property](https://github.com/amit11794/hackerrank-euler/blob/master/solution/130.cpp)| `c++` | `52.00` | Terminated due to timeout
-[P#131](https://github.com/amit11794/hackerrank-euler/blob/master/problem/131.pdf) | [Prime cube partnership](https://github.com/amit11794/hackerrank-euler/blob/master/solution/131.cpp)| `c++` | `50.00` | Wrong Answer
-[P#132](https://github.com/amit11794/hackerrank-euler/blob/master/problem/132.pdf) | Large repunit factors | | | Unsolved
-[P#133](https://github.com/amit11794/hackerrank-euler/blob/master/problem/133.pdf) | [Repunit nonfactors](https://github.com/amit11794/hackerrank-euler/blob/master/solution/133.cpp)| `c++` | `80.00` | Terminated due to timeout
-[P#134](https://github.com/amit11794/hackerrank-euler/blob/master/problem/134.pdf) | Prime pair connection | | | Unsolved
+[P#129](https://github.com/amit11794/hackerrank-euler/blob/master/problem/129.pdf) | Repunit divisibility | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler129/problem)
+[P#130](https://github.com/amit11794/hackerrank-euler/blob/master/problem/130.pdf) | [Composites with prime repunit property](https://github.com/amit11794/hackerrank-euler/blob/master/solution/130.cpp)| `c++` | `52.00` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler130/problem)
+[P#131](https://github.com/amit11794/hackerrank-euler/blob/master/problem/131.pdf) | [Prime cube partnership](https://github.com/amit11794/hackerrank-euler/blob/master/solution/131.cpp)| `c++` | `50.00` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler131/problem)
+[P#132](https://github.com/amit11794/hackerrank-euler/blob/master/problem/132.pdf) | Large repunit factors | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler132/problem)
+[P#133](https://github.com/amit11794/hackerrank-euler/blob/master/problem/133.pdf) | [Repunit nonfactors](https://github.com/amit11794/hackerrank-euler/blob/master/solution/133.cpp)| `c++` | `80.00` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler133/problem)
+[P#134](https://github.com/amit11794/hackerrank-euler/blob/master/problem/134.pdf) | Prime pair connection | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler134/problem)
 [#135](https://github.com/amit11794/hackerrank-euler/blob/master/problem/135.pdf) | [Same differences](https://github.com/amit11794/hackerrank-euler/blob/master/solution/135.cpp)| `c++` | `100.00` | 
-[P#136](https://github.com/amit11794/hackerrank-euler/blob/master/problem/136.pdf) | Singleton difference | | | Unsolved
-[P#137](https://github.com/amit11794/hackerrank-euler/blob/master/problem/137.pdf) | [Fibonacci golden nuggets](https://github.com/amit11794/hackerrank-euler/blob/master/solution/137.cpp)| `c++` | `33.33` | Terminated due to timeout
-[P#138](https://github.com/amit11794/hackerrank-euler/blob/master/problem/138.pdf) | Special isosceles triangles | | | Unsolved
-[P#139](https://github.com/amit11794/hackerrank-euler/blob/master/problem/139.pdf) | Pythagorean tiles | | | Unsolved
-[P#140](https://github.com/amit11794/hackerrank-euler/blob/master/problem/140.pdf) | Modified Fibonacci golden nuggets | | | Unsolved 
-[P#141](https://github.com/amit11794/hackerrank-euler/blob/master/problem/141.pdf) | Investigating progressive numbers, n, which are also square. | | | Unsolved 
-[P#142](https://github.com/amit11794/hackerrank-euler/blob/master/problem/142.pdf) | Perfect Square Collection | | | Unsolved 
-[P#143](https://github.com/amit11794/hackerrank-euler/blob/master/problem/143.pdf) | Investigating the Torricelli point of a triangle | | | Unsolved 
-[P#144](https://github.com/amit11794/hackerrank-euler/blob/master/problem/144.pdf) | Investigating multiple reflections of a laser beam. | | | Unsolved 
-[P#145](https://github.com/amit11794/hackerrank-euler/blob/master/problem/145.pdf) | How many reversible numbers are there below one-billion? | | | Unsolved 
-[P#146](https://github.com/amit11794/hackerrank-euler/blob/master/problem/146.pdf) | [Investigating a Prime Pattern](https://github.com/amit11794/hackerrank-euler/blob/master/solution/146.cpp)| `c++` | `56.00` | Wrong Answer
-[P#147](https://github.com/amit11794/hackerrank-euler/blob/master/problem/147.pdf) | [Rectangles in cross-hatched grids](https://github.com/amit11794/hackerrank-euler/blob/master/solution/147.cpp)| `c++` | `25.00` | Terminated due to timeout
-[P#148](https://github.com/amit11794/hackerrank-euler/blob/master/problem/148.pdf) | Exploring Pascal's triangle. | | | Unsolved  
-[P#149](https://github.com/amit11794/hackerrank-euler/blob/master/problem/149.pdf) | Searching for a maximum-sum subsequence. | | | Unsolved 
+[P#136](https://github.com/amit11794/hackerrank-euler/blob/master/problem/136.pdf) | Singleton difference | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler136/problem)
+[P#137](https://github.com/amit11794/hackerrank-euler/blob/master/problem/137.pdf) | [Fibonacci golden nuggets](https://github.com/amit11794/hackerrank-euler/blob/master/solution/137.cpp)| `c++` | `33.33` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler137/problem)
+[P#138](https://github.com/amit11794/hackerrank-euler/blob/master/problem/138.pdf) | Special isosceles triangles | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler138/problem)
+[P#139](https://github.com/amit11794/hackerrank-euler/blob/master/problem/139.pdf) | Pythagorean tiles | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler139/problem)
+[P#140](https://github.com/amit11794/hackerrank-euler/blob/master/problem/140.pdf) | Modified Fibonacci golden nuggets | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler140/problem) 
+[P#141](https://github.com/amit11794/hackerrank-euler/blob/master/problem/141.pdf) | Investigating progressive numbers, n, which are also square. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler141/problem) 
+[P#142](https://github.com/amit11794/hackerrank-euler/blob/master/problem/142.pdf) | Perfect Square Collection | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler142/problem) 
+[P#143](https://github.com/amit11794/hackerrank-euler/blob/master/problem/143.pdf) | Investigating the Torricelli point of a triangle | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler143/problem) 
+[P#144](https://github.com/amit11794/hackerrank-euler/blob/master/problem/144.pdf) | Investigating multiple reflections of a laser beam. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler144/problem) 
+[P#145](https://github.com/amit11794/hackerrank-euler/blob/master/problem/145.pdf) | How many reversible numbers are there below one-billion? | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler145/problem) 
+[P#146](https://github.com/amit11794/hackerrank-euler/blob/master/problem/146.pdf) | [Investigating a Prime Pattern](https://github.com/amit11794/hackerrank-euler/blob/master/solution/146.cpp)| `c++` | `56.00` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler146/problem)
+[P#147](https://github.com/amit11794/hackerrank-euler/blob/master/problem/147.pdf) | [Rectangles in cross-hatched grids](https://github.com/amit11794/hackerrank-euler/blob/master/solution/147.cpp)| `c++` | `25.00` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler147/problem)
+[P#148](https://github.com/amit11794/hackerrank-euler/blob/master/problem/148.pdf) | Exploring Pascal's triangle. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler148/problem)  
+[P#149](https://github.com/amit11794/hackerrank-euler/blob/master/problem/149.pdf) | Searching for a maximum-sum subsequence. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler149/problem) 
 [P#150](https://github.com/amit11794/hackerrank-euler/blob/master/problem/150.pdf) | [Searching a triangular array for a sub-triangle having minimum-sum.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/150.cpp)| `c++` | `100.00` | 
-[P#151](https://github.com/amit11794/hackerrank-euler/blob/master/problem/151.pdf) | Paper sheets of standard sizes: an expected-value problem. | | | Unsolved
-[P#152](https://github.com/amit11794/hackerrank-euler/blob/master/problem/152.pdf) | [Writing 1/2 as a sum of inverse squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/152.cpp)| `c++` | `30.00` | Wrong Answer
-[P#153](https://github.com/amit11794/hackerrank-euler/blob/master/problem/153.pdf) | Investigating Gaussian Integers | | | Unsolved
-[P#154](https://github.com/amit11794/hackerrank-euler/blob/master/problem/154.pdf) | [Exploring Pascal's pyramid.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/154.cpp)| `c++` | `45.00` | Terminated due to timeout
-[P#155](https://github.com/amit11794/hackerrank-euler/blob/master/problem/155.pdf) | [Counting Capacitor Circuits.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/155.cpp)| `c++` | `94.12` | Terminated due to timeout
+[P#151](https://github.com/amit11794/hackerrank-euler/blob/master/problem/151.pdf) | Paper sheets of standard sizes: an expected-value problem. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler151/problem)
+[P#152](https://github.com/amit11794/hackerrank-euler/blob/master/problem/152.pdf) | [Writing 1/2 as a sum of inverse squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/152.cpp)| `c++` | `30.00` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler152/problem)
+[P#153](https://github.com/amit11794/hackerrank-euler/blob/master/problem/153.pdf) | Investigating Gaussian Integers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler153/problem)
+[P#154](https://github.com/amit11794/hackerrank-euler/blob/master/problem/154.pdf) | [Exploring Pascal's pyramid.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/154.cpp)| `c++` | `45.00` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler154/problem)
+[P#155](https://github.com/amit11794/hackerrank-euler/blob/master/problem/155.pdf) | [Counting Capacitor Circuits.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/155.cpp)| `c++` | `94.12` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler155/problem)
 [#156](https://github.com/amit11794/hackerrank-euler/blob/master/problem/156.pdf) | [Counting Digits](https://github.com/amit11794/hackerrank-euler/blob/master/solution/156.cpp)| `c++` | `100.00` | 
-[P#157](https://github.com/amit11794/hackerrank-euler/blob/master/problem/157.pdf) | Solving the diophantine equation 1/a +1/b = p/10^n | | | Unsolved
-[P#158](https://github.com/amit11794/hackerrank-euler/blob/master/problem/158.pdf) | Exploring strings | | | Unsolved
+[P#157](https://github.com/amit11794/hackerrank-euler/blob/master/problem/157.pdf) | Solving the diophantine equation 1/a +1/b = p/10^n | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler157/problem)
+[P#158](https://github.com/amit11794/hackerrank-euler/blob/master/problem/158.pdf) | Exploring strings | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler158/problem)
 [#159](https://github.com/amit11794/hackerrank-euler/blob/master/problem/159.pdf) | [Digital root sums of factorisations.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/159.cpp)| `c++` | `100.00` | 
-[P#160](https://github.com/amit11794/hackerrank-euler/blob/master/problem/160.pdf) | Factorial trailing digits | | | Unsolved
+[P#160](https://github.com/amit11794/hackerrank-euler/blob/master/problem/160.pdf) | Factorial trailing digits | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler160/problem)
 [#161](https://github.com/amit11794/hackerrank-euler/blob/master/problem/161.pdf) | [Triominoes](https://github.com/amit11794/hackerrank-euler/blob/master/solution/161.cpp)| `c++` | `100.00` | 
 [#162](https://github.com/amit11794/hackerrank-euler/blob/master/problem/162.pdf) | [Hexadecimal numbers](https://github.com/amit11794/hackerrank-euler/blob/master/solution/162.cpp)| `c++` | `100.00` | 
 [#163](https://github.com/amit11794/hackerrank-euler/blob/master/problem/163.pdf) | [Cross-hatched triangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/163.cpp)| `c++` | `100.00` | 
 [#164](https://github.com/amit11794/hackerrank-euler/blob/master/problem/164.pdf) | [Numbers for which no three consecutive digits have a sum greater than a given value.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/164.cpp)| `c++` | `100.00` | 
 [#165](https://github.com/amit11794/hackerrank-euler/blob/master/problem/165.pdf) | [Intersections](https://github.com/amit11794/hackerrank-euler/blob/master/solution/165.cpp)| `c++` | `100.00` | 
 [#166](https://github.com/amit11794/hackerrank-euler/blob/master/problem/166.pdf) | [Criss Cross](https://github.com/amit11794/hackerrank-euler/blob/master/solution/166.cpp)| `c++` | `100.00` | 
-[P#167](https://github.com/amit11794/hackerrank-euler/blob/master/problem/167.pdf) | Investigating Ulam sequences | | | Unsolved
+[P#167](https://github.com/amit11794/hackerrank-euler/blob/master/problem/167.pdf) | Investigating Ulam sequences | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler167/problem)
 [#168](https://github.com/amit11794/hackerrank-euler/blob/master/problem/168.pdf) | [Number Rotations](https://github.com/amit11794/hackerrank-euler/blob/master/solution/168.cpp)| `c++` | `100.00` | 
 [#169](https://github.com/amit11794/hackerrank-euler/blob/master/problem/169.pdf) | [Exploring the number of different ways a number can be expressed as a sum of powers of 2.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/169.cpp)| `c++` | `100.00` | 
-[P#170](https://github.com/amit11794/hackerrank-euler/blob/master/problem/170.pdf) | [Find the largest 0 to 9 pandigital that can be formed by concatenating products.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/170.cpp)| `c++` | `5.00` | Wrong Answer
-[P#171](https://github.com/amit11794/hackerrank-euler/blob/master/problem/171.pdf) | [Finding numbers for which the sum of the squares of the digits is a square](https://github.com/amit11794/hackerrank-euler/blob/master/solution/171.cpp)| `c++` | `5.26` | Wrong Answer
-[P#172](https://github.com/amit11794/hackerrank-euler/blob/master/problem/172.pdf) | Investigating numbers with few repeated digits | | | Unsolved
+[P#170](https://github.com/amit11794/hackerrank-euler/blob/master/problem/170.pdf) | [Find the largest 0 to 9 pandigital that can be formed by concatenating products.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/170.cpp)| `c++` | `5.00` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler170/problem)
+[P#171](https://github.com/amit11794/hackerrank-euler/blob/master/problem/171.pdf) | [Finding numbers for which the sum of the squares of the digits is a square](https://github.com/amit11794/hackerrank-euler/blob/master/solution/171.cpp)| `c++` | `5.26` | [Wrong Answer](https://www.hackerrank.com/contests/projecteuler/challenges/euler171/problem)
+[P#172](https://github.com/amit11794/hackerrank-euler/blob/master/problem/172.pdf) | Investigating numbers with few repeated digits | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler172/problem)
 [#173](https://github.com/amit11794/hackerrank-euler/blob/master/problem/173.pdf) | [Using up to one million tiles how many different "hollow" square laminae can be formed?](https://github.com/amit11794/hackerrank-euler/blob/master/solution/173.cpp)| `c++` | `100.00` | 
-[P#174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements. | | | Unsolved
-[P#175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | Fractions involving the number of different ways a number can be expressed as a sum of powers of 2. | | | Unsolved
-[P#176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | Rectangular triangles that share a cathetus. | | | Unsolved
-[P#177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | Integer angled Quadrilaterals. | | | Unsolved
-[P#178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | Step Numbers | | | Unsolved
-[P#179](https://github.com/amit11794/hackerrank-euler/blob/master/problem/179.pdf) | Consecutive positive divisors | | | Unsolved
-[P#180](https://github.com/amit11794/hackerrank-euler/blob/master/problem/180.pdf) | Rational zeros of a function of three variables. | | | Unsolved
-[P#181](https://github.com/amit11794/hackerrank-euler/blob/master/problem/181.pdf) | Investigating in how many ways objects of two different colours can be grouped. | | | Unsolved
-[P#182](https://github.com/amit11794/hackerrank-euler/blob/master/problem/182.pdf) | RSA encryption | | | Unsolved
+[P#174](https://github.com/amit11794/hackerrank-euler/blob/master/problem/174.pdf) | Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler174/problem)
+[P#175](https://github.com/amit11794/hackerrank-euler/blob/master/problem/175.pdf) | Fractions involving the number of different ways a number can be expressed as a sum of powers of 2. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler175/problem)
+[P#176](https://github.com/amit11794/hackerrank-euler/blob/master/problem/176.pdf) | Rectangular triangles that share a cathetus. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler176/problem)
+[P#177](https://github.com/amit11794/hackerrank-euler/blob/master/problem/177.pdf) | Integer angled Quadrilaterals. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler177/problem)
+[P#178](https://github.com/amit11794/hackerrank-euler/blob/master/problem/178.pdf) | Step Numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler178/problem)
+[P#179](https://github.com/amit11794/hackerrank-euler/blob/master/problem/179.pdf) | Consecutive positive divisors | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler179/problem)
+[P#180](https://github.com/amit11794/hackerrank-euler/blob/master/problem/180.pdf) | Rational zeros of a function of three variables. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler180/problem)
+[P#181](https://github.com/amit11794/hackerrank-euler/blob/master/problem/181.pdf) | Investigating in how many ways objects of two different colours can be grouped. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler181/problem)
+[P#182](https://github.com/amit11794/hackerrank-euler/blob/master/problem/182.pdf) | RSA encryption | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler182/problem)
 [#183](https://github.com/amit11794/hackerrank-euler/blob/master/problem/183.pdf) | [Maximum product of parts](https://github.com/amit11794/hackerrank-euler/blob/master/solution/183.cpp)| `c++` | `100.00` | 
-[P#184](https://github.com/amit11794/hackerrank-euler/blob/master/problem/184.pdf) | Triangles containing the origin. | | | Unsolved
+[P#184](https://github.com/amit11794/hackerrank-euler/blob/master/problem/184.pdf) | Triangles containing the origin. | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler184/problem)
 [#185](https://github.com/amit11794/hackerrank-euler/blob/master/problem/185.pdf) | [Number Mind](https://github.com/amit11794/hackerrank-euler/blob/master/solution/185.py)| `python` | `100.00` | 
 [#186](https://github.com/amit11794/hackerrank-euler/blob/master/problem/186.pdf) | [Connectedness of a network.](https://github.com/amit11794/hackerrank-euler/blob/master/solution/186.cpp)| `c++` | `100.00` | 
 [#187](https://github.com/amit11794/hackerrank-euler/blob/master/problem/187.pdf) | [Semiprimes](https://github.com/amit11794/hackerrank-euler/blob/master/solution/187.cpp)| `c++` | `100.00` | 
-[P#188](https://github.com/amit11794/hackerrank-euler/blob/master/problem/188.pdf) | The hyperexponentiation of a number | | | Unsolved
-[P#189](https://github.com/amit11794/hackerrank-euler/blob/master/problem/189.pdf) | Tri-colouring a triangular grid | | | Unsolved
-[P#190](https://github.com/amit11794/hackerrank-euler/blob/master/problem/190.pdf) | Maximising a weighted product | | | Unsolved
-[P#191](https://github.com/amit11794/hackerrank-euler/blob/master/problem/191.pdf) | Prize Strings | | | Unsolved
-[P#192](https://github.com/amit11794/hackerrank-euler/blob/master/problem/192.pdf) | Best Approximations | | | Unsolved
-[P#193](https://github.com/amit11794/hackerrank-euler/blob/master/problem/193.pdf) | Squarefree Numbers | | | Unsolved
-[P#194](https://github.com/amit11794/hackerrank-euler/blob/master/problem/194.pdf) | Coloured Configurations | | | Unsolved
-[P#195](https://github.com/amit11794/hackerrank-euler/blob/master/problem/195.pdf) | Inscribed circles of triangles with one angle of 60 degrees | | | Unsolved
+[P#188](https://github.com/amit11794/hackerrank-euler/blob/master/problem/188.pdf) | The hyperexponentiation of a number | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler188/problem)
+[P#189](https://github.com/amit11794/hackerrank-euler/blob/master/problem/189.pdf) | Tri-colouring a triangular grid | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler189/problem)
+[P#190](https://github.com/amit11794/hackerrank-euler/blob/master/problem/190.pdf) | Maximising a weighted product | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler190/problem)
+[P#191](https://github.com/amit11794/hackerrank-euler/blob/master/problem/191.pdf) | Prize Strings | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler191/problem)
+[P#192](https://github.com/amit11794/hackerrank-euler/blob/master/problem/192.pdf) | Best Approximations | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler192/problem)
+[P#193](https://github.com/amit11794/hackerrank-euler/blob/master/problem/193.pdf) | Squarefree Numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler193/problem)
+[P#194](https://github.com/amit11794/hackerrank-euler/blob/master/problem/194.pdf) | Coloured Configurations | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler194/problem)
+[P#195](https://github.com/amit11794/hackerrank-euler/blob/master/problem/195.pdf) | Inscribed circles of triangles with one angle of 60 degrees | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler195/problem)
 [P#196](https://github.com/amit11794/hackerrank-euler/blob/master/problem/196.pdf) | [Prime triplets](https://github.com/amit11794/hackerrank-euler/blob/master/solution/196.cpp)| `c++` | `94.74` | Segmentation Fault
 [#197](https://github.com/amit11794/hackerrank-euler/blob/master/problem/197.pdf) | [Investigating the behaviour of a recursively defined sequence](https://github.com/amit11794/hackerrank-euler/blob/master/solution/197.py)| `python` | `100.00` | 
-[P#198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | Ambiguous Numbers | | | Unsolved
-[P#199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | Iterative Circle Packing | | | Unsolved
+[P#198](https://github.com/amit11794/hackerrank-euler/blob/master/problem/198.pdf) | Ambiguous Numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler198/problem)
+[P#199](https://github.com/amit11794/hackerrank-euler/blob/master/problem/199.pdf) | Iterative Circle Packing | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler199/problem)
 [#200](https://github.com/amit11794/hackerrank-euler/blob/master/problem/200.pdf) | [Find the 200th prime-proof sqube containing the contiguous sub-string "200"](https://github.com/amit11794/hackerrank-euler/blob/master/solution/200.cpp)| `c++` | `100.00` | 
 [#201](https://github.com/amit11794/hackerrank-euler/blob/master/problem/201.pdf) | [Subsets with a unique sum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/201.cpp)| `c++` | `100.00` | 
-[P#202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | Laserbeam | | | Unsolved 
-[P#203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | Squarefree Binomial Coefficients | | | Unsolved 
-[P#204](https://github.com/amit11794/hackerrank-euler/blob/master/problem/204.pdf) | Generalised Hamming Numbers | | | Unsolved 
-[P#205](https://github.com/amit11794/hackerrank-euler/blob/master/problem/205.pdf) | Dice Game | | | Unsolved 
-[P#206](https://github.com/amit11794/hackerrank-euler/blob/master/problem/206.pdf) | Concealed Square | | | Unsolved 
+[P#202](https://github.com/amit11794/hackerrank-euler/blob/master/problem/202.pdf) | Laserbeam | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler202/problem) 
+[P#203](https://github.com/amit11794/hackerrank-euler/blob/master/problem/203.pdf) | Squarefree Binomial Coefficients | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler203/problem) 
+[P#204](https://github.com/amit11794/hackerrank-euler/blob/master/problem/204.pdf) | Generalised Hamming Numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler204/problem) 
+[P#205](https://github.com/amit11794/hackerrank-euler/blob/master/problem/205.pdf) | Dice Game | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler205/problem) 
+[P#206](https://github.com/amit11794/hackerrank-euler/blob/master/problem/206.pdf) | Concealed Square | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler206/problem) 
 [#207](https://github.com/amit11794/hackerrank-euler/blob/master/problem/207.pdf) | [Integer partition equations](https://github.com/amit11794/hackerrank-euler/blob/master/solution/207.py)| `python` | `100.00` | 
-[P#208](https://github.com/amit11794/hackerrank-euler/blob/master/problem/208.pdf) | Robot Walks | | | Unsolved 
-[P#209](https://github.com/amit11794/hackerrank-euler/blob/master/problem/209.pdf) | Circular Logic | | | Unsolved 
-[P#210](https://github.com/amit11794/hackerrank-euler/blob/master/problem/210.pdf) | Obtuse Angled Triangles | | | Unsolved 
+[P#208](https://github.com/amit11794/hackerrank-euler/blob/master/problem/208.pdf) | Robot Walks | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler208/problem) 
+[P#209](https://github.com/amit11794/hackerrank-euler/blob/master/problem/209.pdf) | Circular Logic | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler209/problem) 
+[P#210](https://github.com/amit11794/hackerrank-euler/blob/master/problem/210.pdf) | Obtuse Angled Triangles | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler210/problem) 
 [#211](https://github.com/amit11794/hackerrank-euler/blob/master/problem/211.pdf) | [Divisor Square Sum](https://github.com/amit11794/hackerrank-euler/blob/master/solution/211.cpp)| `c++` | `100.00` | 
-[P#212](https://github.com/amit11794/hackerrank-euler/blob/master/problem/212.pdf) | Combined Volume of Cuboids | | | Unsolved 
-[P#213](https://github.com/amit11794/hackerrank-euler/blob/master/problem/213.pdf) | Flea Circus | | | Unsolved 
-[P#214](https://github.com/amit11794/hackerrank-euler/blob/master/problem/214.pdf) | Totient Chains | | | Unsolved 
-[P#215](https://github.com/amit11794/hackerrank-euler/blob/master/problem/215.pdf) | Crack-free Walls | | | Unsolved 
-[P#216](https://github.com/amit11794/hackerrank-euler/blob/master/problem/216.pdf) | Investigating the primality of numbers of the form 2n² - 1 | | | Unsolved 
-[P#217](https://github.com/amit11794/hackerrank-euler/blob/master/problem/217.pdf) | Balanced Numbers | | | Unsolved 
+[P#212](https://github.com/amit11794/hackerrank-euler/blob/master/problem/212.pdf) | Combined Volume of Cuboids | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler212/problem) 
+[P#213](https://github.com/amit11794/hackerrank-euler/blob/master/problem/213.pdf) | Flea Circus | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler213/problem) 
+[P#214](https://github.com/amit11794/hackerrank-euler/blob/master/problem/214.pdf) | Totient Chains | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler214/problem) 
+[P#215](https://github.com/amit11794/hackerrank-euler/blob/master/problem/215.pdf) | Crack-free Walls | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler215/problem) 
+[P#216](https://github.com/amit11794/hackerrank-euler/blob/master/problem/216.pdf) | Investigating the primality of numbers of the form 2n² - 1 | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler216/problem) 
+[P#217](https://github.com/amit11794/hackerrank-euler/blob/master/problem/217.pdf) | Balanced Numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler217/problem) 
 [#218](https://github.com/amit11794/hackerrank-euler/blob/master/problem/218.pdf) | [Perfect right-angled triangles](https://github.com/amit11794/hackerrank-euler/blob/master/solution/218.cpp)| `c++` | `100.00` | 
-[P#219](https://github.com/amit11794/hackerrank-euler/blob/master/problem/219.pdf) | Skew-cost coding | | | Unsolved 
-[P#220](https://github.com/amit11794/hackerrank-euler/blob/master/problem/220.pdf) | Heighway Dragon | | | Unsolved 
-[P#221](https://github.com/amit11794/hackerrank-euler/blob/master/problem/221.pdf) | Alexandrian Integers | | | Unsolved 
-[P#222](https://github.com/amit11794/hackerrank-euler/blob/master/problem/222.pdf) | Sphere Packing | | | Unsolved 
-[P#223](https://github.com/amit11794/hackerrank-euler/blob/master/problem/223.pdf) | Almost right-angled triangles I | | | Unsolved 
-[P#224](https://github.com/amit11794/hackerrank-euler/blob/master/problem/224.pdf) | Almost right-angled triangles II | | | Unsolved 
-[P#225](https://github.com/amit11794/hackerrank-euler/blob/master/problem/225.pdf) | [Tribonacci non-divisors](https://github.com/amit11794/hackerrank-euler/blob/master/solution/225.c)| `c` | `60.00` | Terminated due to timeout
-[P#226](https://github.com/amit11794/hackerrank-euler/blob/master/problem/226.pdf) | A Scoop of Blancmange | | | Unsolved  
-[P#227](https://github.com/amit11794/hackerrank-euler/blob/master/problem/227.pdf) | The Chase | | | Unsolved  
-[P#228](https://github.com/amit11794/hackerrank-euler/blob/master/problem/228.pdf) | Minkowski Sums | | | Unsolved  
-[P#229](https://github.com/amit11794/hackerrank-euler/blob/master/problem/229.pdf) | [Four Representations using Squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/229.java)| `java` | `6.67` | Terminated due to timeout
+[P#219](https://github.com/amit11794/hackerrank-euler/blob/master/problem/219.pdf) | Skew-cost coding | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler219/problem) 
+[P#220](https://github.com/amit11794/hackerrank-euler/blob/master/problem/220.pdf) | Heighway Dragon | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler220/problem) 
+[P#221](https://github.com/amit11794/hackerrank-euler/blob/master/problem/221.pdf) | Alexandrian Integers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler221/problem) 
+[P#222](https://github.com/amit11794/hackerrank-euler/blob/master/problem/222.pdf) | Sphere Packing | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler222/problem) 
+[P#223](https://github.com/amit11794/hackerrank-euler/blob/master/problem/223.pdf) | Almost right-angled triangles I | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler223/problem) 
+[P#224](https://github.com/amit11794/hackerrank-euler/blob/master/problem/224.pdf) | Almost right-angled triangles II | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler224/problem) 
+[P#225](https://github.com/amit11794/hackerrank-euler/blob/master/problem/225.pdf) | [Tribonacci non-divisors](https://github.com/amit11794/hackerrank-euler/blob/master/solution/225.c)| `c` | `60.00` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler225/problem)
+[P#226](https://github.com/amit11794/hackerrank-euler/blob/master/problem/226.pdf) | A Scoop of Blancmange | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler226/problem)  
+[P#227](https://github.com/amit11794/hackerrank-euler/blob/master/problem/227.pdf) | The Chase | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler227/problem)  
+[P#228](https://github.com/amit11794/hackerrank-euler/blob/master/problem/228.pdf) | Minkowski Sums | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler228/problem)  
+[P#229](https://github.com/amit11794/hackerrank-euler/blob/master/problem/229.pdf) | [Four Representations using Squares](https://github.com/amit11794/hackerrank-euler/blob/master/solution/229.java)| `java` | `6.67` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler229/problem)
 [#230](https://github.com/amit11794/hackerrank-euler/blob/master/problem/230.pdf) | [Fibonacci Words](https://github.com/amit11794/hackerrank-euler/blob/master/solution/230.py)| `python` | `100.00` | 
-[P#231](https://github.com/amit11794/hackerrank-euler/blob/master/problem/231.pdf) | The prime factorisation of binomial coefficients | | | Unsolved  
-[P#232](https://github.com/amit11794/hackerrank-euler/blob/master/problem/232.pdf) | The Race | | | Unsolved  
-[P#233](https://github.com/amit11794/hackerrank-euler/blob/master/problem/233.pdf) | Lattice points on a circle | | | Unsolved  
-[P#234](https://github.com/amit11794/hackerrank-euler/blob/master/problem/234.pdf) | Semidivisible numbers | | | Unsolved  
-[P#235](https://github.com/amit11794/hackerrank-euler/blob/master/problem/235.pdf) | An Arithmetic Geometric sequence | | | Unsolved  
-[P#236](https://github.com/amit11794/hackerrank-euler/blob/master/problem/236.pdf) | Luxury Hampers | | | Unsolved  
-[P#237](https://github.com/amit11794/hackerrank-euler/blob/master/problem/237.pdf) | Tours on a 4 x n playing board | | | Unsolved  
-[P#238](https://github.com/amit11794/hackerrank-euler/blob/master/problem/238.pdf) | Infinite string tour | | | Unsolved  
-[P#239](https://github.com/amit11794/hackerrank-euler/blob/master/problem/239.pdf) | Twenty-two Foolish Primes | | | Unsolved  
-[P#240](https://github.com/amit11794/hackerrank-euler/blob/master/problem/240.pdf) | [Top Dice](https://github.com/amit11794/hackerrank-euler/blob/master/solution/240.cpp)| `c++` | `2.00` | Terminated due to timeout
-[P#241](https://github.com/amit11794/hackerrank-euler/blob/master/problem/241.pdf) | Perfection Quotients | | | Unsolved  
-[P#242](https://github.com/amit11794/hackerrank-euler/blob/master/problem/242.pdf) | Odd Triplets | | | Unsolved  
-[P#243](https://github.com/amit11794/hackerrank-euler/blob/master/problem/243.pdf) | Resilience | | | Unsolved  
-[P#244](https://github.com/amit11794/hackerrank-euler/blob/master/problem/244.pdf) | [Sliders](https://github.com/amit11794/hackerrank-euler/blob/master/solution/244.py)| `python` | `77.78` | Terminated due to timeout
-[P#245](https://github.com/amit11794/hackerrank-euler/blob/master/problem/245.pdf) | Coresilience | | | Unsolved  
-[P#246](https://github.com/amit11794/hackerrank-euler/blob/master/problem/246.pdf) | Tangents to an ellipse | | | Unsolved  
-[P#247](https://github.com/amit11794/hackerrank-euler/blob/master/problem/247.pdf) | Squares under a hyperbola | | | Unsolved  
-[P#248](https://github.com/amit11794/hackerrank-euler/blob/master/problem/248.pdf) | Numbers for which Euler’s totient function equals 13! | | | Unsolved  
-[P#249](https://github.com/amit11794/hackerrank-euler/blob/master/problem/249.pdf) | Prime Subset Sums | | | Unsolved  
-[P#250](https://github.com/amit11794/hackerrank-euler/blob/master/problem/250.pdf) | 250250 | | | Unsolved  
-[P#251](https://github.com/amit11794/hackerrank-euler/blob/master/problem/251.pdf) | Cardano Triplets | | | Unsolved  
-[P#252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | Convex Holes | | | Unsolved  
-[P#253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | Tidying up | | | Unsolved  
-[P#254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | Sums of Digit Factorials | | | Unsolved  
+[P#231](https://github.com/amit11794/hackerrank-euler/blob/master/problem/231.pdf) | The prime factorisation of binomial coefficients | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler231/problem)  
+[P#232](https://github.com/amit11794/hackerrank-euler/blob/master/problem/232.pdf) | The Race | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler232/problem)  
+[P#233](https://github.com/amit11794/hackerrank-euler/blob/master/problem/233.pdf) | Lattice points on a circle | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler233/problem)  
+[P#234](https://github.com/amit11794/hackerrank-euler/blob/master/problem/234.pdf) | Semidivisible numbers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler234/problem)  
+[P#235](https://github.com/amit11794/hackerrank-euler/blob/master/problem/235.pdf) | An Arithmetic Geometric sequence | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler235/problem)  
+[P#236](https://github.com/amit11794/hackerrank-euler/blob/master/problem/236.pdf) | Luxury Hampers | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler236/problem)  
+[P#237](https://github.com/amit11794/hackerrank-euler/blob/master/problem/237.pdf) | Tours on a 4 x n playing board | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler237/problem)  
+[P#238](https://github.com/amit11794/hackerrank-euler/blob/master/problem/238.pdf) | Infinite string tour | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler238/problem)  
+[P#239](https://github.com/amit11794/hackerrank-euler/blob/master/problem/239.pdf) | Twenty-two Foolish Primes | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler239/problem)  
+[P#240](https://github.com/amit11794/hackerrank-euler/blob/master/problem/240.pdf) | [Top Dice](https://github.com/amit11794/hackerrank-euler/blob/master/solution/240.cpp)| `c++` | `2.00` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler240/problem)
+[P#241](https://github.com/amit11794/hackerrank-euler/blob/master/problem/241.pdf) | Perfection Quotients | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler241/problem)  
+[P#242](https://github.com/amit11794/hackerrank-euler/blob/master/problem/242.pdf) | Odd Triplets | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler242/problem)  
+[P#243](https://github.com/amit11794/hackerrank-euler/blob/master/problem/243.pdf) | Resilience | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler243/problem)  
+[P#244](https://github.com/amit11794/hackerrank-euler/blob/master/problem/244.pdf) | [Sliders](https://github.com/amit11794/hackerrank-euler/blob/master/solution/244.py)| `python` | `77.78` | [Terminated due to timeout](https://www.hackerrank.com/contests/projecteuler/challenges/euler244/problem)
+[P#245](https://github.com/amit11794/hackerrank-euler/blob/master/problem/245.pdf) | Coresilience | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler245/problem)  
+[P#246](https://github.com/amit11794/hackerrank-euler/blob/master/problem/246.pdf) | Tangents to an ellipse | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler246/problem)  
+[P#247](https://github.com/amit11794/hackerrank-euler/blob/master/problem/247.pdf) | Squares under a hyperbola | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler247/problem)  
+[P#248](https://github.com/amit11794/hackerrank-euler/blob/master/problem/248.pdf) | Numbers for which Euler’s totient function equals 13! | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler248/problem)  
+[P#249](https://github.com/amit11794/hackerrank-euler/blob/master/problem/249.pdf) | Prime Subset Sums | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler249/problem)  
+[P#250](https://github.com/amit11794/hackerrank-euler/blob/master/problem/250.pdf) | 250250 | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler250/problem)  
+[P#251](https://github.com/amit11794/hackerrank-euler/blob/master/problem/251.pdf) | Cardano Triplets | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler251/problem)  
+[P#252](https://github.com/amit11794/hackerrank-euler/blob/master/problem/252.pdf) | Convex Holes | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler252/problem)  
+[P#253](https://github.com/amit11794/hackerrank-euler/blob/master/problem/253.pdf) | Tidying up | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler253/problem)  
+[P#254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | Sums of Digit Factorials | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler254/problem)  
 
 
 I have used multiple sources to take help for some of the questions. Thanks everyone, cheers 🍻🥂 !!! And I would love to give credit to the actual owners. 
