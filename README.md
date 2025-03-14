@@ -13,8 +13,6 @@
 
 ![Leaderboard-World](https://github.com/amit11794/hackerrank-euler/blob/master/res/Leaderboard-World.png)
 
-There are still many problems to solve, but I'm excited to aim higher!
-
 Problem | Solution | Language | Result | Comments
 --- | --- | --- | --- | ---
 [#1](https://github.com/amit11794/hackerrank-euler/blob/master/problem/1.pdf) | [Multiples of 3 and 5](https://github.com/amit11794/hackerrank-euler/blob/master/solution/1.java) | `java` | `100.00` | 
