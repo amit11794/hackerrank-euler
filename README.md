@@ -1,6 +1,6 @@
 ## [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 
-#### [my profile - amit11794 👨🏻‍💻](https://www.hackerrank.com/amit11794)
+#### [my profile - amit11794](https://www.hackerrank.com/amit11794)
 
 ### Leaderboard
 - As of 1st July 2021
