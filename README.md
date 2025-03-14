@@ -1,6 +1,6 @@
 ## [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)
 
-#### [my profile - amit11794](https://www.hackerrank.com/amit11794)
+#### [My Profile](https://www.hackerrank.com/amit11794)
 
 ### Leaderboard
 - As of 1st July 2021
@@ -274,6 +274,7 @@ Problem | Solution | Language | Result | Comments
 
 
 I have utilized various sources to assist with some of the questions. My sincere thanks to everyone who contributed. I would also like to give full credit to the original creators. If you believe that any part of the work closely resembles yours, please feel free to let me know. I will be happy to acknowledge your contribution with the utmost respect and gratitude.
+
 
 Credits:
 - My own work
