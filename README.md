@@ -5,15 +5,15 @@
 ### Leaderboard
 - As of 1st July 2021
 
-[Top 5, India 😎🤘](https://www.hackerrank.com/contests/projecteuler/leaderboard?filter=India&filter_on=country&page=1)
+[Top 5, India](https://www.hackerrank.com/contests/projecteuler/leaderboard?filter=India&filter_on=country&page=1)
 
 ![Leaderboard-India](https://github.com/amit11794/hackerrank-euler/blob/master/res/Leaderboard-India.png)
 
-[29th, Universe 🤣](https://www.hackerrank.com/contests/projecteuler/leaderboard)
+[29th, World](https://www.hackerrank.com/contests/projecteuler/leaderboard)
 
 ![Leaderboard-World](https://github.com/amit11794/hackerrank-euler/blob/master/res/Leaderboard-World.png)
 
-Many problems are yet to solve, hoping to jump higher 😜...
+There are still many problems to solve, but I'm excited to aim higher!
 
 Problem | Solution | Language | Result | Comments
 --- | --- | --- | --- | ---
@@ -273,10 +273,9 @@ Problem | Solution | Language | Result | Comments
 [P#254](https://github.com/amit11794/hackerrank-euler/blob/master/problem/254.pdf) | Sums of Digit Factorials | | | [Unsolved](https://www.hackerrank.com/contests/projecteuler/challenges/euler254/problem)  
 
 
-I have used multiple sources to take help for some of the questions. Thanks everyone, cheers 🍻🥂 !!! And I would love to give credit to the actual owners. 
-Please let me know, if you feel like it resembles to your work, I might have referred somewhere, I will mention your name with 💯 respect 🙌 and love 💓. 
+I have utilized various sources to assist with some of the questions. My sincere thanks to everyone who contributed. I would also like to give full credit to the original creators. If you believe that any part of the work closely resembles yours, please feel free to let me know. I will be happy to acknowledge your contribution with the utmost respect and gratitude.
 
 Credits:
-- My own work 🤟 !!!
-- https://github.com/nayuki/Project-Euler-solutions
-- https://github.com/stbrumme/euler
+- My own work
+- [nayuki/Project-Euler-solutions] (https://github.com/nayuki/Project-Euler-solutions)
+- [stbrumme/euler] (https://github.com/stbrumme/euler)
